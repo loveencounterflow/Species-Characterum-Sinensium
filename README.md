@@ -128,9 +128,18 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 脅 ⿱劦⺝ Vis pyr. Lunam der. (v.)
 * 汁 氵Aqua e. decem
 * 問 Porticus ostii
-* 國 ⿴囗或 Imperium cc., imperi(i)
-* 或 ⿹戈⿱口一
-* 戈
+* 國 ⿴囗或 Imperium cc., imperi(i); Circus pili ostii unus; Circus regni cc.
+* 或 ⿹戈⿱口一 regnum, regni cc.; Pilum ostii (crc. circi) unus, ergo Regnum cc.
+* 戈 pilum, pili *f.2nd*
+* 弋 ictus, ictus *m*
+* 𢍺 Ictus var. antiqua
+*  ictus nud.
+* 𢍼
+* 戋
+* 𢦍
+* 㦮
+* 𢦑
+* 戊 wu, 5th heavenly stem
 * 囗 circus, circi
 * 国 ⿴囗玉 Circus iaspidis cpx.; Imperium sx. iasp(idis)
 * 囯 ⿴囗王 Circus regis cpx.; Imperium sx. reg(is)
@@ -141,7 +150,10 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 矢 sagitta, sagittæ
 * 失 amissio, amissionis *f.3rd*
 * 殳 ⿱几又 lancea, lanceæ; Mensula (crc. lanceola) dextræ
+* 手 manus, manus *f.4th*
+* 扌 Manus e.
 * 又 dextra, dextræ
+* ?? sinistra, sinistræ
 * 匡 ⿷匚王 Arca regis
 * 匚 arca, arcæ
 * 酉 amphora, amphoræ
@@ -150,7 +162,18 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 玉 iaspis, ispidis
 * 𠏹 ⿰亻⿱覀⿴囗玉 Vir e. occidentis t. imperi sx. iasp. (Vir occidentis imperi)
 * 𠏹 ⿰亻⿱覀国 Vir e. occidentis t. circus iaspidis cpx.
-* 佛
+* 佛 Vir e. sestertii
+* 弗 Arcus lapsu-columna dcs., vulgo ドル (crc. ドルラル), ergo Sestertius, sestertii, abbr. IIS, HS
+* 丿 lapsus, lapsus *m.4th*
+*  Lapsus columnæ, ergo Lapsus-columna
+* 丨 columna, columnae *f.1st*
+* 亅	Columna hamnata
+*  hamulus (sinister), hamuli
+*  hamulus dexter, hamuli
+* 〢 Columna duplex
+* 刂 Culter e.
+* 刀 culter, cultri *m.2nd*
+* 弓 arcus, arcus *m.4th*
 * &jzr#xe250;  ⿰亻⿱覀國
 * 東 oriens, orientis
 * 西 occidens, occidentis
@@ -163,10 +186,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * h. horizontalis (for horizontal repetitions)
 * e. elongatus (for a common upright variant used on the left hand side)
 * t. transversalis (for a common horizontally stretched variant)
+* var. varietas, varietatis *f.3rd*
 * sup. superior
 * int. intectus (without the upper part)
 * nud. nudus (without the lower part)
 * der. derectus ('upright' look-alike, as in 月 luna, ⺝ luna der.)
+* dcs. X decussatus (crossed with X)
 
 * quad. quadratus
 * pyr. pyramidalis (?)
