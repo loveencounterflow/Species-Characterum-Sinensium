@@ -24,14 +24,17 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 
 * 龍 *Draco* (var. *trad.*), draconis
 * 龙 *Draco sx.*
-* 𠁣
-* 𠃛
+* 𠁣 *Posrticus dmd. sinistra*
+* 𠃛 *Posrticus dmd. dextra*
 * 門 *Porticus*, porticus
 * 月 *Luna*, lunæ; sive *Caro e.*
 * 肉 *Caro*, carnis
 * ⺝ *Luna der.*
 * 日 *Sol*, solis
-*  *Avis* nudus
+* 瓦 *Tegula*, tegulae
+* 瓩 *Tegula millis*
+* 千 *Mille*, millis *n.3rd*
+*  *Avis nudus*
 * 鳥 *Avis*, avis
 * 隹 *Avicula*, aviculæ
 * 乍 *Procursatio*, procursationis
@@ -83,9 +86,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 亠 *Coperculum*, coperculi; l.ang.: lid
 * 乊
 * 䒑 *Coperculum bipunctatum*
-* 爪
-* ⺥
-* 爫
+* 爪 *Unguis*, unguis *m.3rd*
+* ⺥ *Unguis t.* var. *Song*
+* 爫 *Unguis t.*
 * 㝉
 * 㓁
 * &jzr#xe172;&jzr#xe146;
@@ -123,12 +126,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 巳 *Serpens*, serpentis *mf.3rd*; *Serpens convoluta*
 * 我 *Ego-manus* (ego-m)
 * 吾 *Quinque ostii*, *Ego-ostium*
-* 龴 *Ipsus inv.*
-* 厶 *Ipsus*
-* 㕕 *Ipsus dupl. vert.*
-* 厸 *Ipsus dupl. hor.*
-* 厽 *Ipsus pyr.*
-* 𠫬 *Ipsus quad.*
+* 龴 *Anellus inv.*
+* 厶 *Anellus*, anelli *m.2nd*
+* 㕕 *Anellus 2x celsus*
+* 厸 *Anellus 2x latus*
+* 厽 *Anellus 3x pyr.*
+* 𠫬 *Anellus 4x quad.*
 * 石 *Lapis*, lapidis
 * 平 *Libra*, libræ
 * 田 *Campus*, campi
@@ -139,7 +142,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 朱 *Truncus*, trunci
 
 * 五 *Quinque*
-* 八 *Octo*
+* 八 *Octo (mai.)*
+* 丷 *Octo min.* vel *inv.*
+* 兌 *Octo mai. fratris*, ergo *Commutatio cc.* var. *Song*, commutationis
+* 兑 *Octo min. fratris*, ergo *Commutatio cc.*, commutationis
+* 兄 *Frater*, fratris *m.3rd*
 * 九 *Novem*
 * 十 *Decem*
 * 山 *Mons*, montis
@@ -262,8 +269,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * pyr. pyramidalis (?)
 * triglyphus
 * sx. simplex (for forms created by simplification)
+* 2x duplex
+* 3x triplex
+* 4x quadruplex
 * cpx. circumplexus (surrounding)
-* l.ang.: linguæ anglicæ, in English
+* l.ang. linguæ anglicæ, in English
 
 * crc. correctus (or conrectus) (for convenient or conventional forms that
   are written or quoted in place of the more historically more correct
