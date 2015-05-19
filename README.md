@@ -172,31 +172,31 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 明 ⿰日月 *Sol lunæ*, ergo *Candor cc.*, candoris
 * 光 *Lux*, lucis
 * 盟 ⿱⿰日月皿 *Sol lunæ h. pelvis v.*, ergo *Candor cc. pelvis v.*, ergo *Alligatio cc.*
-* 名 ⿱夕口 Vespera ostii v.
-* 外 ⿰夕卜 Vespera fissi h.
-* 叩 ⿰口卩 Ostium sigilli h.
-* 命 ⿱亼⿰口卩 Trigonum ostii sigilli h. v.
-* 命 ⿱亼叩 Trigonum ostii sigilli; Trigonum supra Orem sigilli
-* 鳴 ⿰口鳥 Ostium avis
-* 宋 ⿱宀木 Tectum arboris
-* 協 ⿰十劦 Decem viris pyr. (?)
-* 脇 ⿰月劦 Luna viris pyr.
-* 脅 ⿱劦⺝ Vis pyr. Lunam der. (v.)
-* 汁 氵Aqua e. decem
-* 問 Porticus ostii
-* 國 ⿴囗或 Imperium cc., imperi(i); Circus pili ostii unus; Circus regni cc.
+* 名 ⿱夕口 *Vespera ostii v.*
+* 外 ⿰夕卜 *Vespera fissi h.*
+* 叩 ⿰口卩 *Ostium sigilli h.*
+* 命 ⿱亼⿰口卩 *Trigonum ostii sigilli h. v.*
+<!-- * 命 ⿱亼叩 *Trigonum XXX* -->
+* 鳴 ⿰口鳥 *Ostium avis*
+* 宋 ⿱宀木 *Tectum arboris*
+* 協 ⿰十劦 Decem viris pyr.
+* 脇 ⿰月劦 *Luna* (crc. *Caro*) *viris pyr.*
+* 脅 ⿱劦⺝ *Vis pyr. lunam der.* (crc. *carnem*) *v.*
+* 汁 氵 *Aqua e. decem*
+* 問 *Porticus ostii*
+* 國 ⿴囗或 *Circus pili ostii unus*, ergo *Circus regni cc.*, ergo *Imperium cc.* var. *trad.*, imperi(i)
 * 或 ⿹戈⿱口一 regnum, regni cc.; Pilum ostii (crc. circi) unus, ergo Regnum cc.
-* 戈 pilum, pili *f.2nd*
-* 弋 ictus, ictus *m*
-* 𢍺 Ictus var. antiqua
-*  ictus nud.
+* 戈 *Pilum*, pili *f.2nd*; LAng a javelin
+* 弋 *Ictus*, ictus *m*; LAng a hitting shot
+* 𢍺 *Ictus* var. *antiqua*
+*  *Ictus nud.*
 * 𢍼
 * 戋
 * 𢦍
 * 㦮
 * 𢦑
 * 戊 wu, 5th heavenly stem
-* 囗 circus, circi
+* 囗 *Circus*, circi
 * 国 ⿴囗玉 *Circus iaspidis cpx.*, ergo *Imperium cc. sx.* var. *iasp(idis)*
 * 囯 ⿴囗王 *Circus regis cpx.*, ergo *Imperium cc. sx.* var. *reg(is)*
 * 圀 ⿴囗 *Circus octo quadri v. cpx.*, ergo *Imperium cc.* var. *octo quadri*
@@ -256,6 +256,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * esx. elongatus simplex (eg. 讠 Oratio esx.)
 * t. transversalis (for a common horizontally stretched variant)
 * var. varietas, varietatis *f.3rd*
+* var. *ant.* varietas antiqua
+* var. *trad.* varietas traditionalis
+* var. *iap.* varietas Iaponica
 * sup. superior
 * itc. intectus (without the upper part)
 * nud. nudus (without the lower part)
@@ -267,6 +270,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * ↔ cnv. conversus
 * ↻ rot. rotatus
 * ↕ inv. inversus
+
 
 * quad. quadratus
 * pyr. pyramidalis (?)
