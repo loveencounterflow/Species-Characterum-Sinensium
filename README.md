@@ -3,22 +3,24 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 
 
 
-* 一 *Trabs*, trabis *f.3rd*; l.ang.:. a beam
-* ㇀ *Tignum*, tigni *n.2nd*; l.ang.:. a strut
-*  *Assula*, assulæ *f.1st*; l.ang.:. a splinter
+* 一 *Trabs*, trabis *f.3rd*; l.ang.: a beam
+* ㇀ *Tignum*, tigni *n.2nd*; l.ang.: a strut
+*  *Assula*, assulæ *f.1st*; l.ang.: a splinter
 * 二 *Duo*
-* 乛 **
-* ㇏ **
-* ㇂ **
+* 乛 *Pressus min.*
+* 乙 *Pressus mai.*, pressus
+* ㇏ *Saltus*, saltus *m.4th*
+* ㇂ *Hamus*, hami *m.2nd*; l.ang.: an angle (as for fishing)
 * 丿 *Lapsus*, lapsus *m.4th*
 *  *Lapsus columnæ*, ergo *Lapsus-columna*
-* 丨 *Columna*, columnae *f.1st*
-* 亅	*Columna hamnata*
-*  *Hamulus, hamuli*
-*  *Uncinus, uncini*
+* 丨 *Columna (recta)*, columnae *f.1st*
+* 亅	*Columna angulata*
+*  *Angulus*, anguli
+*  *Hamulus*, hamuli
 * 〢 *Columna duplex*
-* 刂 *Culter e.*
-* 〇
+* 刂 *Columna (recta) columnæ angulatæ*, sive *Columna duplex angulata*, ergo *Culter e.*
+*  *Columna (recta) lapsus*
+* 〇 *Gyrus*, gyri *m.2nd*
 
 * 龍 *Draco* (var. *trad.*), draconis
 * 龙 *Draco sx.*
@@ -76,9 +78,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 子 *Semen*, seminis *n.3rd*
 * 字 *Tectum seminis*, ergo *Littera cc.*, litteræ *f*
 * 文 *Signum*, signi *n*,
-* 宀 *Tectum*, tecti; l.ang.:. roof
+* 宀 *Tectum*, tecti; l.ang.: roof
 * 冖 *Tectum itc.* [sic]
-* 亠 *Coperculum*, coperculi; l.ang.:. lid
+* 亠 *Coperculum*, coperculi; l.ang.: lid
 * 乊
 * 䒑 *Coperculum bipunctatum*
 * 爪
@@ -241,6 +243,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * var. *ant.* varietas antiqua
 * var. *trad.* varietas traditionalis
 * var. *iap.* varietas Iaponica
+* min. minor, the lesser
+* mai. maior, the greater
 * sup. superior
 * itc. intectus (without the upper part)
 * nud. nudus (without the lower part)
