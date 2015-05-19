@@ -33,59 +33,78 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 龙 draco sx.
 * 𠁣
 * 𠃛
-* 門 porticus, porticus
-* 月 luna, lunæ sive caro e.
-* 肉 caro, carnis
-* ⺝ luna der., lunæ der.
-* 日 sol, solis
-*  avis nudus
-* 鳥 avis, avis
-* 隹 avicula, aviculæ
-* 乍 procursatio, procursationis
-* 辵 ambulatio, ambulationis; repto, reptare, reptavi, reptatus
-* 辶 ambulatiuncula, ambulatiunculæ; ... reptans
-* 衣 vestis, vestis
-* 衤 vestis e.
-* 礻 augurium e.
-* 卜 fissum, i
-* 示 augurium, auguri(i)
-* 占 omen, ominis
-* 心 cor, cordis
-* 忄 cor e.
-* 人 vir, viri
-* 亻 vir e., virulus
-* 水 aqua, aquæ
-* 氵 aqua e.
-* 火 ignis, ignis
-* 灬 ignis t.
-* 言 oratio, orationis
-* 曰 dictio, dictionis
-* 云 nimbus, nimbi *m.2nd*
-* 雨 pluvia, pluviae *f.1st*
-* 語 Oratio quinque osti; Oration Ego-osti
-* 飛 volatus, volatus *m.4th*
-* 毛 pluma, plumæ
-* 羽 Penna duplex h., ergo Pinna, pinnæ *f.1st*
-* 习 penna, pennæ *f.1st*
-* 聿 calamus, calami *m.2nd*
+* 門 *Porticus*, porticus
+* 月 *Luna*, lunæ sive caro e.
+* 肉 *Caro*, carnis
+* ⺝ *Luna* der., lunæ der.
+* 日 *Sol*, solis
+*  *Avis* nudus
+* 鳥 *Avis*, avis
+* 隹 *Avicula*, aviculæ
+* 乍 *Procursatio*, procursationis
+* 辵 *Ambulatio*, ambulationis; repto, reptare, reptavi, reptatus
+* 辶 *Ambulatiuncula*, ambulatiunculæ; ... reptans
+* 衣 *Vestis*, vestis
+* 衤 *Vestis e.*
+* 礻 *Augurium e.*
+* 卜 *Fissum*, fissi
+* 示 *Augurium*, auguri(i)
+* 占 *Omen*, ominis
+* 心 *Cor*, cordis
+* 忄 *Cor e.*
+* 人 *Vir*, viri
+* 亻 *Vir e.*
+* 水 *Aqua*, aquæ
+* 氵 *Aqua e.*
+* 火 *Ignis*, ignis
+* 灬 *Ignis t.*
+* 言 *Oratio*, orationis
+* 曰 *Dictio*, dictionis
+* 云 *Nimbus*, nimbi *m.2nd*
+* 雨 *Pluvia*, pluviae *f.1st*
+* 語 *Oratio quinque osti*; *Oratio Ego-osti*
+* 飛 *Volatus*, volatus *m.4th*
+* 毛 *Pluma*, plumæ
+* 羽 *Penna duplex h.*, ergo *Pinna*, pinnæ *f.1st*
+* 习 *Penna*, pennæ *f.1st*
+* 聿 *Calamus*, calami *m.2nd*
 * 
 * 
-* 肀 Calamus rdc.
+* 肀 *Calamus rdc.*
 * 𦘒=帇
-* 筆 Bambusa calami, ergo Penicillus cc., pennicilli *m*
-* 丶 Punctum, puncti *n.2nd*
+* 筆 *Bambusa calami*, ergo *Penicillus cc.*, pennicilli *m*
+* 丶 *Punctum*, puncti *n.2nd*
 * 
 * 
 * 
-* 𥫗 Bambusa t.
-* 竹 bambusa, bambusae
-* 竺 Bambusa duo v., ergo India
-*  Tectum tripunctata
-* 学 Tectum tripunctata
-* 子
-* 字
-* 冖 Tectum int.
-* 讠 Oratio espx.
+* 𥫗 *Bambusa t.*
+* 竹 *Bambusa*, bambusae
+* 竺 *Bambusa duo v.*, ergo *India cc.*
+*  *Tectum tripunctatum*
+* 学 *Tectum tripunctatum semenis*, ergo *Studium spx.*
+* 子 *Semen*, seminis *n.3rd*
+* 字 *Tectum seminis*, ergo *Littera cc.*, litteræ *f*
+* 文 *Signum*, signi *n*,
+* 宀 *Tectum*, tecti LAng roof
+* 冖 *Tectum* itc.
+* 亠 *Coperculum*, coperculi LAng lid
+* 乛
+* 乊
+* 䒑 *Coperculum bipunctatum*
+* 爪
+* ⺥
+* 爫
+* 㝉
+* 㓁
+* &jzr#xe172;&jzr#xe146;
+* &jzr#xe116;
+* 龸
+* &jzr#xe182;
+* &jzr#xe147;
+* ⺳
+* &jzr#xe11c;
+* &jzr#xe179;
+* 讠 *Oratio* espx.
 * 學
 * 雲 Pluvia nimbi
 * 桌 mensa, mensæ
@@ -124,7 +143,6 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 舟 navis, navalis
 * 穴 Tectum octo, ergo Cavum, cavi
 * 木 arbor, arboris
-* 宀 tectum, tecti
 * 皿 pelvis, pelvis
 * 朱 truncus, trunci
 * 一 unus, unius
@@ -238,7 +256,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * t. transversalis (for a common horizontally stretched variant)
 * var. varietas, varietatis *f.3rd*
 * sup. superior
-* int. intectus (without the upper part)
+* itc. intectus (without the upper part)
 * nud. nudus (without the lower part)
 * rdc. reductus (without some inner part, eg. 肀 Calamus rdc.)
 * plen. plenus (full form in contradistinction to a reduced one, eg.  㠀 Avis plen. montis in contradistinction to the more common 島 Avis nud. montis)
