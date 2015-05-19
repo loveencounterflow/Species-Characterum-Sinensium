@@ -3,10 +3,13 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 
 
 
-* 一 *Unus*
-* 乛
-* ㇏
-* ㇂
+* 一 *Trabs*, trabis *f.3rd*; l.ang.:. a beam
+* ㇀ *Tignum*, tigni *n.2nd*; l.ang.:. a strut
+*  *Assula*, assulæ *f.1st*; l.ang.:. a splinter
+* 二 *Duo*
+* 乛 **
+* ㇏ **
+* ㇂ **
 * 丿 *Lapsus*, lapsus *m.4th*
 *  *Lapsus columnæ*, ergo *Lapsus-columna*
 * 丨 *Columna*, columnae *f.1st*
@@ -73,9 +76,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 子 *Semen*, seminis *n.3rd*
 * 字 *Tectum seminis*, ergo *Littera cc.*, litteræ *f*
 * 文 *Signum*, signi *n*,
-* 宀 *Tectum*, tecti; LAng. roof
+* 宀 *Tectum*, tecti; l.ang.:. roof
 * 冖 *Tectum itc.* [sic]
-* 亠 *Coperculum*, coperculi; LAng. lid
+* 亠 *Coperculum*, coperculi; l.ang.:. lid
 * 乊
 * 䒑 *Coperculum bipunctatum*
 * 爪
@@ -173,8 +176,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 問 *Porticus ostii*
 * 國 ⿴囗或 *Circus pili ostii unus*, ergo *Circus regni cc.*, ergo *Imperium cc.* var. *trad.*, imperi(i)
 * 或 ⿹戈⿱口一 regnum, regni cc.; Pilum ostii (crc. circi) unus, ergo Regnum cc.
-* 戈 *Pilum*, pili *f.2nd*; LAng a javelin
-* 弋 *Ictus*, ictus *m*; LAng a hitting shot
+* 戈 *Pilum*, pili *f.2nd*; l.ang.: a javelin
+* 弋 *Ictus*, ictus *m*; l.ang.: a hitting shot
 * 𢍺 *Ictus* var. *antiqua*
 *  *Ictus nud.*
 * 𢍼
@@ -189,7 +192,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 圀 ⿴囗 *Circus octo quadri v. cpx.*, ergo *Imperium cc.* var. *octo quadri*
 * 醫 ⿱殹酉 *Pharetra-lancea amphoræ*, ergo *Medicus cc.*
 * 殹 ⿰医殳 *Pharetra cc. lanceæ*, ergo *Pharetra-lancea*
-* 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; LAng a quiver
+* 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; l.ang.: a quiver
 * 矢 *Sagitta*, sagittæ
 * 失 *Amissio*, amissionis *f.3rd*
 * 殳 ⿱几又 *Mensula (crc. lanceola) dextræ*, ergo *Lancea*, lanceæ
@@ -256,7 +259,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * triglyphus
 * sx. simplex (for forms created by simplification)
 * cpx. circumplexus (surrounding)
-* LAng lingua(e) anglica(e) in English
+* l.ang.: linguæ anglicæ, in English
 
 * crc. correctus (or conrectus) (for convenient or conventional forms that
   are written or quoted in place of the more historically more correct
