@@ -63,7 +63,30 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 云 nimbus, nimbi *m.2nd*
 * 雨 pluvia, pluviae *f.1st*
 * 語 Oratio quinque osti; Oration Ego-osti
-* 羽 pluma, plumae *f.1st*
+* 飛 volatus, volatus *m.4th*
+* 毛 pluma, plumæ
+* 羽 Penna duplex h., ergo Pinna, pinnæ *f.1st*
+* 习 penna, pennæ *f.1st*
+* 聿 calamus, calami *m.2nd*
+* 
+* 
+* 肀 Calamus rdc.
+* 𦘒=帇
+* 筆 Bambusa calami, ergo Penicillus cc., pennicilli *m*
+* 丶 Punctum, puncti *n.2nd*
+* 
+* 
+* 
+* 𥫗 Bambusa t.
+* 竹 bambusa, bambusae
+* 竺 Bambusa duo v., ergo India
+*  Tectum tripunctata
+* 学 Tectum tripunctata
+* 子
+* 字
+* 冖 Tectum int.
+* 讠 Oratio espx.
+* 學
 * 雲 Pluvia nimbi
 * 桌 mensa, mensæ
 * 几 mensula, mensulæ
@@ -99,7 +122,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 平 libra, libræ
 * 田 campus, campi
 * 舟 navis, navalis
-* 穴 cavum, cavi
+* 穴 Tectum octo, ergo Cavum, cavi
 * 木 arbor, arboris
 * 宀 tectum, tecti
 * 皿 pelvis, pelvis
@@ -195,6 +218,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 禾 ceres, cereris
 * 合 Trigonum osti
 * 可 Robur osti, ergo Potentia, potentiæ
+* 鼎 caldarius *n.*
 * 丁 robur, roboris
 * 何 Vir e. potentæ
 * 刀 culter, cultri *m.2nd*
@@ -210,11 +234,13 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * v. verticalis (for vertical repetitions)
 * h. horizontalis (for horizontal repetitions)
 * e. elongatus (for a common upright variant used on the left hand side)
+* esx. elongatus simplex (eg. 讠 Oratio esx.)
 * t. transversalis (for a common horizontally stretched variant)
 * var. varietas, varietatis *f.3rd*
 * sup. superior
 * int. intectus (without the upper part)
 * nud. nudus (without the lower part)
+* rdc. reductus (without some inner part, eg. 肀 Calamus rdc.)
 * plen. plenus (full form in contradistinction to a reduced one, eg.  㠀 Avis plen. montis in contradistinction to the more common 島 Avis nud. montis)
 * der. derectus ('upright' look-alike, as in 月 luna, ⺝ luna der.)
 * dcs. X decussatus (crossed with X)
