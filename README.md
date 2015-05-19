@@ -240,6 +240,10 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 南 *Auster*, austri
 * 北 *Boreas*, boreæ
 
+## Conventions
+
+## Abbreviations
+
 * cc. concumulatus, concumulata, concumulatum (used for non-elementary, 'accumulated' characters)
 * v. verticalis (for vertical repetitions)
 * h. horizontalis (for horizontal repetitions)
