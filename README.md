@@ -34,15 +34,15 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𠁣
 * 𠃛
 * 門 porticus, porticus
-* 月 luna, lunae
-* ⺝ luna der., lunae der.
+* 月 luna, lunæ
+* ⺝ luna der., lunæ der.
 * 日 sol, solis
 *  avis nudus
 * 鳥 avis, avis
-* 隹 avicula, aviculae
+* 隹 avicula, aviculæ
 * 乍 procursatio, procursationis
 * 辵 ambulatio, ambulationis; repto, reptare, reptavi, reptatus
-* 辶 ambulatiuncula, ambulatiunculae; ... reptans
+* 辶 ambulatiuncula, ambulatiunculæ; ... reptans
 * 衣 vestis, vestis
 * 衤 vestis e.
 * 礻 augurium e.
@@ -53,15 +53,16 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 忄 cor e.
 * 人 vir, viri
 * 亻 vir e., virulus
-* 水 aqua, aquae
+* 水 aqua, aquæ
 * 氵 aqua e.
 * 火 ignis, ignis
 * 灬 ignis t.
 * 言 oratio, orationis
-* 桌 mensa, mensae
-* 几 mensula, mensulae
+* 桌 mensa, mensæ
+* 几 mensula, mensulæ
+* 𠘧 lanceola, lanceolæ
 * 网 rete, retis
-* 夕 vespera, vesperae
+* 夕 vespera, vesperæ
 * 冊 codex, codicis
 * 口 ostium, osti(i); os, oris ????
 * 乂 crux, crucis
@@ -70,7 +71,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 术 ars, artis (?)
 * 亼 trigonum, trigoni; (trinitas, trinitatis?)
 * 卩 sigillum, sigilli
-* 匕 rudicula, rudiculae
+* 匕 rudicula, rudiculæ
 *  rudicula duplex verticalis
 * 𣬅 rudicula quad.
 * 厶 ipsus, ?
@@ -80,7 +81,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𠫬 ipsus quad.
 * 我 ego, mei, mihi, me, me, ego
 * 石 lapis, lapidis
-* 平 libra, librae
+* 平 libra, libræ
 * 田 campus, campi
 * 舟 navis, navalis
 * 穴 cavum, cavi
@@ -102,18 +103,18 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 嶋 ⿰山鳥 Mons avis h.
 * 嶌 ⿱山鳥 Mons avis v.
 * 騀 Equus mei (?)
-* 萬 Myrias c. (myriados/is)
-* 研 ⿰石开 Lapis planitiae
+* 萬 Myrias cc. (myriados/is)
+* 研 ⿰石开 Lapis planitiæ
 * 究 ⿱穴九 Cavum novem
 * 信 ⿰亻言 Vir e. orationis
 * 迷 米辶 Oriza reptans
 * 這 言辶 Oratio reptans
 * 述 术辶 Ars reptans
-* 熊 Ursa c.; Ipsus lunae derectae ante rudiculam dupl. v. supra ignim(?) t.
-* 明 ⿰日月 Sol lunae; Candor c., candoris c.
-* 盟 ⿱⿰日月皿 Sol lunae pelvis hv.
-* 盟 ⿱⿰日月皿 Sol lunae h. ergo Candor c., tum pelvis v., ergo Alligatio c.
-* 盟 ⿱明皿 Candor c. pelvis v. ergo Alligatio c.
+* 熊 Ursa cc.; Ipsus lunæ derectæ ante rudiculam dupl. v. supra ignim(?) t.
+* 明 ⿰日月 Sol lunæ; Candor cc., candoris cc.
+* 盟 ⿱⿰日月皿 Sol lunæ pelvis hv.
+* 盟 ⿱⿰日月皿 Sol lunæ h. ergo Candor cc., tum pelvis v., ergo Alligatio cc.
+* 盟 ⿱明皿 Candor cc. pelvis v. ergo Alligatio cc.
 * 名 ⿱夕口 Vespera ostii v.
 * 外 ⿰夕卜 Vespera fissi h.
 * 叩 ⿰口卩 Ostium sigilli h.
@@ -124,21 +125,25 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 協 ⿰十劦 Decem viris pyr. (?)
 * 脇 ⿰月劦 Luna viris pyr.
 * 脅 ⿱劦⺝ Vis pyr. Lunam der. (v.)
-* 汁 氵Aqua e. decimus (?)
+* 汁 氵Aqua e. decem
 * 問 Porticus ostii
-* 國 ⿴囗或 Imperium c., imperi(i)
+* 國 ⿴囗或 Imperium cc., imperi(i)
 * 或 ⿹戈⿱口一
 * 戈
 * 囗 circus, circi
 * 国 ⿴囗玉 Circus iaspidis cpx.; Imperium sx. iasp(idis)
 * 囯 ⿴囗王 Circus regis cpx.; Imperium sx. reg(is)
 * 圀 ⿴囗 Circus octo quadri v. cpx.; Imperium octo quadri
-* 醫 ⿱殹酉
-* 殹 ⿰医殳
-* 医 ⿷匚矢
-* 殳 ⿱几又
-* 匡
-* 酉
+* 醫 ⿱殹酉 Pharetra-lancea amphoræ, ergo Medicus cc.
+* 殹 ⿰医殳 Pharetra cc. lanceæ, ergo Pharetra-lancea
+* 医 ⿷匚矢 Arca sagittæ, ergo Pharetra cc.; LAng a quiver
+* 矢 sagitta, sagittæ
+* 失 amissio, amissionis *f.3rd*
+* 殳 ⿱几又 lancea, lanceæ; Mensula (lanceola) dextræ
+* 又 dextra, dextræ
+* 匡 ⿷匚王 Arca regis
+* 匚 arca, arcæ
+* 酉 amphora, amphoræ
 * 方 quadrum, quadri
 * 王 rex, regis
 * 玉 iaspis, ispidis
@@ -150,9 +155,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 西 occidens, occidentis
 * 覀 Occidens t.
 * 南 auster, austri
-* 北 boreas, boreae
+* 北 boreas, boreæ
 
-* c. (con)cumulatus, (con)cumulata, (con)cumulatum (used for non-elementary, 'accumulated' characters)
+* cc. concumulatus, concumulata, concumulatum (used for non-elementary, 'accumulated' characters)
 * v. verticalis (for vertical repetitions)
 * h. horizontalis (for horizontal repetitions)
 * e. elongatus (for a common upright variant used on the left hand side)
@@ -167,3 +172,4 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * triglyphus
 * sx. simplex (for forms created by simplification)
 * cpx. circumplexus (surrounding)
+* LAng lingua(e) anglica(e) in English
