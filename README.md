@@ -21,7 +21,6 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 刂 *Columna (recta) columnæ angulatæ*, sive *Columna duplex angulata*, ergo *Culter e.*
 *  *Columna (recta) lapsus*
 * 〇 *Gyrus*, gyri *m.2nd*
-
 * 龍 *Draco* (var. *trad.*), draconis
 * 龙 *Draco sx.*
 * 𠁣 *Posrticus dmd. sinistra*
@@ -140,7 +139,6 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 木 *Arbor*, arboris
 * 皿 *Pelvis*, pelvis
 * 朱 *Truncus*, trunci
-
 * 五 *Quinque*
 * 八 *Octo (mai.)*
 * 丷 *Octo min.* vel *inv.*
@@ -267,8 +265,6 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * ↔ cnv. conversus
 * ↻ rot. rotatus
 * ↕ inv. inversus
-
-
 * quad. quadratus
 * pyr. pyramidalis (?)
 * triglyphus
@@ -278,14 +274,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 4x quadruplex
 * cpx. circumplexus (surrounding)
 * l.ang. linguæ anglicæ, in English
-
 * crc. correctus (or conrectus) (for convenient or conventional forms that
   are written or quoted in place of the more historically more correct
   forms, eg. 殳 ⿱几又 Mensula (crc. lanceola) dextræ (ie. what is quoted
   here as 几 *mensula* should really be quoted as 𠘧 *lanceola*);
   脇 ⿰月劦 Luna (crc. Caro) viris pyr.)
-
-
 * quincunx, quincuncis (the form that five elements are arranged as in 器 etc.)
 
 
