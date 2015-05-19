@@ -59,6 +59,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 火 ignis, ignis
 * 灬 ignis t.
 * 言 oratio, orationis
+* 曰 dictio, dictionis
+* 云 nimbus, nimbi *m.2nd*
+* 雨 pluvia, pluviae *f.1st*
+* 語 Oratio quinque osti; Oration Ego-osti
+* 羽 pluma, plumae *f.1st*
+* 雲 Pluvia nimbi
 * 桌 mensa, mensæ
 * 几 mensula, mensulæ
 * 𠘧 lanceola, lanceolæ
@@ -70,17 +76,25 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 骨 os, ossis ????
 * 米 oriza; risum
 * 术 ars, artis (?)
+* 白 album, albi *n.2nd*
 * 亼 trigonum, trigoni; (trinitas, trinitatis?)
 * 卩 sigillum, sigilli
 * 匕 rudicula, rudiculæ
 *  rudicula duplex verticalis
 * 𣬅 rudicula quad.
-* 厶 ipsus, ?
+* 自 Ego-nasus (ego-n)
+* 鼻 nasus, nasi *m.2nd*
+* 己 Ego-serpens (ego-s), Serpens devoluta
+* 已 Serpens involuta
+* 巳 serpens, serpentis *mf.3rd*; Serpens convoluta
+* 我 Ego-manus (ego-m)
+* 吾 Quinque osti, Ego-ostium
+* 龴 ipsus inv.
+* 厶 ipsus
 * 㕕 ipsus dupl. vert.
 * 厸 ipsus dupl. hor.
 * 厽 ipsus pyr.
 * 𠫬 ipsus quad.
-* 我 ego, mei, mihi, me, me, ego
 * 石 lapis, lapidis
 * 平 libra, libræ
 * 田 campus, campi
@@ -91,15 +105,17 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 皿 pelvis, pelvis
 * 朱 truncus, trunci
 * 一 unus, unius
+* 五 quinque
 * 八 octo (octavus)
 * 九 novem
 * 十 decem
 * 山 mons, montis
 * 力 vis, viris
 * 劦 vis pyr.
-* 鵝 ⿰我鳥 Ego avis h.
-* 䳗   ⿱鳥我 Avis mei (?) v.
-* 䳘   ⿰鳥我 Avis mei (?) h.
+* 鵝 ⿰我鳥 Ego-m. avis h.
+* 䳗 ⿱鳥我 Avis ego-m. v.
+* 䳘 ⿰鳥我 Avis ego-m h.
+* 㠀 ⿱鳥山 Avis plen. montis
 * 島 ⿹山 Avis nud. montis
 * 嶋 ⿰山鳥 Mons avis h.
 * 嶌 ⿱山鳥 Mons avis v.
@@ -168,10 +184,19 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 *  Lapsus columnæ, ergo Lapsus-columna
 * 丨 columna, columnae *f.1st*
 * 亅	Columna hamnata
-*  hamulus (sinister), hamuli
-*  hamulus dexter, hamuli
+*  hamulus, hamuli
+*  uncinus, uncini
+* 田 ager, agri
+* 光 candor, candoris
 * 〢 Columna duplex
 * 刂 Culter e.
+* 利 Ceres cultri
+* 和 Ceres osti
+* 禾 ceres, cereris
+* 合 Trigonum osti
+* 可 Robur osti, ergo Potentia, potentiæ
+* 丁 robur, roboris
+* 何 Vir e. potentæ
 * 刀 culter, cultri *m.2nd*
 * 弓 arcus, arcus *m.4th*
 * &jzr#xe250;  ⿰亻⿱覀國
@@ -190,8 +215,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * sup. superior
 * int. intectus (without the upper part)
 * nud. nudus (without the lower part)
+* plen. plenus (full form in contradistinction to a reduced one, eg.  㠀 Avis plen. montis in contradistinction to the more common 島 Avis nud. montis)
 * der. derectus ('upright' look-alike, as in 月 luna, ⺝ luna der.)
 * dcs. X decussatus (crossed with X)
+* ↔ cnv. conversus
+* ↻ rot. rotatus
+* ↕ inv. inversus
 
 * quad. quadratus
 * pyr. pyramidalis (?)
@@ -207,6 +236,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
   脇 ⿰月劦 Luna (crc. Caro) viris pyr.)
 
 
+* quincunx, quincuncis (the form that five elements are arranged as in 器 etc.)
 
 
 
