@@ -3,40 +3,28 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 
 
 
+* 一 *Unus*
+* 乛
+* ㇏
+* ㇂
+* 丿 *Lapsus*, lapsus *m.4th*
+*  *Lapsus columnæ*, ergo *Lapsus-columna*
+* 丨 *Columna*, columnae *f.1st*
+* 亅	*Columna hamnata*
+*  *Hamulus, hamuli*
+*  *Uncinus, uncini*
+* 〢 *Columna duplex*
+* 刂 *Culter e.*
+* 〇
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* 龍 draco, draconis
-* 龙 draco sx.
+* 龍 *Draco* (var. *trad.*), draconis
+* 龙 *Draco sx.*
 * 𠁣
 * 𠃛
 * 門 *Porticus*, porticus
-* 月 *Luna*, lunæ sive caro e.
+* 月 *Luna*, lunæ; sive *Caro e.*
 * 肉 *Caro*, carnis
-* ⺝ *Luna* der., lunæ der.
+* ⺝ *Luna der.*
 * 日 *Sol*, solis
 *  *Avis* nudus
 * 鳥 *Avis*, avis
@@ -81,14 +69,13 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 竹 *Bambusa*, bambusae
 * 竺 *Bambusa duo v.*, ergo *India cc.*
 *  *Tectum tripunctatum*
-* 学 *Tectum tripunctatum semenis*, ergo *Studium spx.*
+* 学 *Tectum tripunctatum semenis*, ergo *Studium cc. spx.*
 * 子 *Semen*, seminis *n.3rd*
 * 字 *Tectum seminis*, ergo *Littera cc.*, litteræ *f*
 * 文 *Signum*, signi *n*,
-* 宀 *Tectum*, tecti LAng roof
+* 宀 *Tectum*, tecti; LAng. roof
 * 冖 *Tectum itc.* [sic]
-* 亠 *Coperculum*, coperculi LAng lid
-* 乛
+* 亠 *Coperculum*, coperculi; LAng. lid
 * 乊
 * 䒑 *Coperculum bipunctatum*
 * 爪
@@ -104,7 +91,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * ⺳
 * &jzr#xe11c;
 * &jzr#xe179;
-* 讠 *Oratio* espx.
+* 讠 *Oratio esx.*
 * 學
 * 雲 *Pluvia nimbi*
 * 桌 *Mensa*, mensæ
@@ -131,12 +118,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 巳 *Serpens*, serpentis *mf.3rd*; *Serpens convoluta*
 * 我 *Ego-manus* (ego-m)
 * 吾 *Quinque ostii*, *Ego-ostium*
-* 龴 *Ipsus* inv.
+* 龴 *Ipsus inv.*
 * 厶 *Ipsus*
-* 㕕 *Ipsus* dupl. vert.
-* 厸 *Ipsus* dupl. hor.
-* 厽 *Ipsus* pyr.
-* 𠫬 *Ipsus* quad.
+* 㕕 *Ipsus dupl. vert.*
+* 厸 *Ipsus dupl. hor.*
+* 厽 *Ipsus pyr.*
+* 𠫬 *Ipsus quad.*
 * 石 *Lapis*, lapidis
 * 平 *Libra*, libræ
 * 田 *Campus*, campi
@@ -145,7 +132,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 木 *Arbor*, arboris
 * 皿 *Pelvis*, pelvis
 * 朱 *Truncus*, trunci
-* 一 *Unus*
+
 * 五 *Quinque*
 * 八 *Octo*
 * 九 *Novem*
@@ -179,7 +166,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 <!-- * 命 ⿱亼叩 *Trigonum XXX* -->
 * 鳴 ⿰口鳥 *Ostium avis*
 * 宋 ⿱宀木 *Tectum arboris*
-* 協 ⿰十劦 Decem viris pyr.
+* 協 ⿰十劦 *Decem viris pyr.*
 * 脇 ⿰月劦 *Luna* (crc. *Caro*) *viris pyr.*
 * 脅 ⿱劦⺝ *Vis pyr. lunam der.* (crc. *carnem*) *v.*
 * 汁 氵 *Aqua e. decem*
@@ -213,22 +200,14 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 匡 ⿷匚王 *Arca regis*
 * 匚 *Arca*, arcæ
 * 酉 *Amphora*, amphoræ
+* 田 *Ager, agri*
 * 方 *Quadrum*, quadri
 * 王 *Rex*, regis
 * 玉 *Iaspis*, ispidis
 * 𠏹 ⿰亻⿱覀⿴囗玉 *Vir e. occidentis t. imperi sx. iasp.*
-* 𠏹 ⿰亻⿱覀国 Vir e. occidentis t. circus iaspidis cpx.
+* 𠏹 ⿰亻⿱覀国 *Vir e. occidentis t. circus iaspidis cpx.*
 * 佛 *Vir e. sestertii*
 * 弗 *Arcus lapsus-columnæ dcs.*, vulgo *ドル* (crc. *ドルラル*), ergo *Sestertius*, sestertii, abbr. IIS, HS
-* 丿 *Lapsus*, lapsus *m.4th*
-*  *Lapsus columnæ*, ergo *Lapsus-columna*
-* 丨 *Columna*, columnae *f.1st*
-* 亅	*Columna hamnata*
-*  *Hamulus, hamuli*
-*  *Uncinus, uncini*
-* 田 *Ager, agri*
-* 〢 *Columna duplex*
-* 刂 *Culter e.*
 * 利 *Ceres cultri*
 * 和 *Ceres ostii*
 * 禾 *Ceres*, cereris
