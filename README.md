@@ -62,7 +62,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 曰 *Dictio*, dictionis
 * 云 *Nimbus*, nimbi *m.2nd*
 * 雨 *Pluvia*, pluviae *f.1st*
-* 語 *Oratio quinque osti*; *Oratio Ego-osti*
+* 語 *Oratio quinque ostii*; *Oratio Ego-ostii*
 * 飛 *Volatus*, volatus *m.4th*
 * 毛 *Pluma*, plumæ
 * 羽 *Penna duplex h.*, ergo *Pinna*, pinnæ *f.1st*
@@ -74,9 +74,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𦘒=帇
 * 筆 *Bambusa calami*, ergo *Penicillus cc.*, pennicilli *m*
 * 丶 *Punctum*, puncti *n.2nd*
-* 
-* 
-* 
+*  *Bambusa dmd.*
+*  *Bambusa dmd.*
+*  *Bambusa dmd.*
 * 𥫗 *Bambusa t.*
 * 竹 *Bambusa*, bambusae
 * 竺 *Bambusa duo v.*, ergo *India cc.*
@@ -86,7 +86,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 字 *Tectum seminis*, ergo *Littera cc.*, litteræ *f*
 * 文 *Signum*, signi *n*,
 * 宀 *Tectum*, tecti LAng roof
-* 冖 *Tectum* itc.
+* 冖 *Tectum itc.* [sic]
 * 亠 *Coperculum*, coperculi LAng lid
 * 乛
 * 乊
@@ -106,73 +106,72 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * &jzr#xe179;
 * 讠 *Oratio* espx.
 * 學
-* 雲 Pluvia nimbi
-* 桌 mensa, mensæ
-* 几 mensula, mensulæ
-* 𠘧 lanceola, lanceolæ
-* 网 rete, retis
-* 夕 vespera, vesperæ
-* 冊 codex, codicis
-* 口 ostium, osti(i); os, oris ????
-* 乂 crux, crucis
-* 骨 os, ossis ????
-* 米 oriza; risum
-* 术 ars, artis (?)
-* 白 album, albi *n.2nd*
-* 亼 trigonum, trigoni; (trinitas, trinitatis?)
-* 卩 sigillum, sigilli
-* 匕 rudicula, rudiculæ
-*  rudicula duplex verticalis
-* 𣬅 rudicula quad.
-* 自 Ego-nasus (ego-n)
-* 鼻 nasus, nasi *m.2nd*
-* 己 Ego-serpens (ego-s), Serpens devoluta
-* 已 Serpens involuta
-* 巳 serpens, serpentis *mf.3rd*; Serpens convoluta
-* 我 Ego-manus (ego-m)
-* 吾 Quinque osti, Ego-ostium
-* 龴 ipsus inv.
-* 厶 ipsus
-* 㕕 ipsus dupl. vert.
-* 厸 ipsus dupl. hor.
-* 厽 ipsus pyr.
-* 𠫬 ipsus quad.
-* 石 lapis, lapidis
-* 平 libra, libræ
-* 田 campus, campi
-* 舟 navis, navalis
-* 穴 Tectum octo, ergo Cavum, cavi
-* 木 arbor, arboris
-* 皿 pelvis, pelvis
-* 朱 truncus, trunci
-* 一 unus, unius
-* 五 quinque
-* 八 octo (octavus)
-* 九 novem
-* 十 decem
-* 山 mons, montis
-* 力 vis, viris
-* 劦 vis pyr.
-* 鵝 ⿰我鳥 Ego-m. avis h.
-* 䳗 ⿱鳥我 Avis ego-m. v.
-* 䳘 ⿰鳥我 Avis ego-m h.
-* 㠀 ⿱鳥山 Avis plen. montis
-* 島 ⿹山 Avis nud. montis
-* 嶋 ⿰山鳥 Mons avis h.
-* 嶌 ⿱山鳥 Mons avis v.
-* 騀 Equus mei (?)
-* 萬 Myrias cc. (myriados/is)
-* 研 ⿰石开 Lapis planitiæ
-* 究 ⿱穴九 Cavum novem
-* 信 ⿰亻言 Vir e. orationis
-* 迷 米辶 Oriza reptans
-* 這 言辶 Oratio reptans
-* 述 术辶 Ars reptans
-* 熊 Ursa cc.; Ipsus lunæ derectæ ante rudiculam dupl. v. supra ignim(?) t.
-* 明 ⿰日月 Sol lunæ; Candor cc., candoris cc.
-* 盟 ⿱⿰日月皿 Sol lunæ pelvis hv.
-* 盟 ⿱⿰日月皿 Sol lunæ h. ergo Candor cc., tum pelvis v., ergo Alligatio cc.
-* 盟 ⿱明皿 Candor cc. pelvis v. ergo Alligatio cc.
+* 雲 *Pluvia nimbi*
+* 桌 *Mensa*, mensæ
+* 几 *Mensula*, mensulæ
+* 𠘧 *Lanceola*, lanceolæ
+* 网 *Rete*, retis
+* 夕 *Vespera*, vesperæ
+* 冊 *Codex*, codicis
+* 口 *Ostium*, ostii *n.2nd*
+* 乂 *Crux*, crucis
+* 骨 *Os*, ossis *n.3rd*
+* 米 *Oriza*
+* 术 *Ars*, artis (?)
+* 白 *Album*, albi *n.2nd*
+* 亼 *Trigonum*, trigoni
+* 卩 *Sigillum*, sigilli
+* 匕 *Rudicula*, rudiculæ
+*  *Rudicula duplex verticalis*
+* 𣬅 *Rudicula quad.*
+* 自 *Ego-nasus* (ego-n)
+* 鼻 *Nasus*, nasi *m.2nd*
+* 己 *Ego-serpens* (ego-s), Serpens devoluta
+* 已 *Serpens involuta*
+* 巳 *Serpens*, serpentis *mf.3rd*; *Serpens convoluta*
+* 我 *Ego-manus* (ego-m)
+* 吾 *Quinque ostii*, *Ego-ostium*
+* 龴 *Ipsus* inv.
+* 厶 *Ipsus*
+* 㕕 *Ipsus* dupl. vert.
+* 厸 *Ipsus* dupl. hor.
+* 厽 *Ipsus* pyr.
+* 𠫬 *Ipsus* quad.
+* 石 *Lapis*, lapidis
+* 平 *Libra*, libræ
+* 田 *Campus*, campi
+* 舟 *Navis*, navalis
+* 穴 *Tectum octo*, ergo *Cavum*, cavi
+* 木 *Arbor*, arboris
+* 皿 *Pelvis*, pelvis
+* 朱 *Truncus*, trunci
+* 一 *Unus*, unius
+* 五 *Quinque*
+* 八 *Octo* (octavus)
+* 九 *Novem*
+* 十 *Decem*
+* 山 *Mons*, montis
+* 力 *Vis*, viris
+* 劦 *Vis pyr.*
+* 鵝 ⿰我鳥 *Ego-m. avis h.*
+* 䳗 ⿱鳥我 *Avis ego-m. v.*
+* 䳘 ⿰鳥我 *Avis ego-m h.*
+* 㠀 ⿱鳥山 *Avis plen. montis*
+* 島 ⿹山 *Avis nud. montis*
+* 嶋 ⿰山鳥 *Mons avis h.*
+* 嶌 ⿱山鳥 *Mons avis v.*
+* 騀 *Equus Ego-m.*
+* 萬 *Myrias cc.* (myriados/is)
+* 研 ⿰石开 *Lapis planitiæ*
+* 究 ⿱穴九 *Cavum novem*
+* 信 ⿰亻言 *Vir e. orationis*
+* 迷 米辶 *Oriza reptans*
+* 這 言辶 *Oratio reptans*
+* 述 术辶 *Ars reptans*
+* 熊 *Ursa cc.*; *Ipsus lunæ derectæ ante rudiculam dupl. v. supra ignim(?) t.*
+* 明 ⿰日月 *Sol lunæ*, ergo *Candor cc.*, candoris
+* 光 *Lux*, lucis
+* 盟 ⿱⿰日月皿 *Sol lunæ h. pelvis v.*, ergo *Candor cc. pelvis v.*, ergo *Alligatio cc.*
 * 名 ⿱夕口 Vespera ostii v.
 * 外 ⿰夕卜 Vespera fissi h.
 * 叩 ⿰口卩 Ostium sigilli h.
@@ -228,14 +227,13 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 *  hamulus, hamuli
 *  uncinus, uncini
 * 田 ager, agri
-* 光 candor, candoris
 * 〢 Columna duplex
 * 刂 Culter e.
 * 利 Ceres cultri
-* 和 Ceres osti
+* 和 Ceres ostii
 * 禾 ceres, cereris
-* 合 Trigonum osti
-* 可 Robur osti, ergo Potentia, potentiæ
+* 合 Trigonum ostii
+* 可 Robur ostii, ergo Potentia, potentiæ
 * 鼎 caldarius *n.*
 * 丁 robur, roboris
 * 何 Vir e. potentæ
@@ -261,6 +259,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * rdc. reductus (without some inner part, eg. 肀 Calamus rdc.)
 * plen. plenus (full form in contradistinction to a reduced one, eg.  㠀 Avis plen. montis in contradistinction to the more common 島 Avis nud. montis)
 * der. derectus ('upright' look-alike, as in 月 luna, ⺝ luna der.)
+* dmd. demidius ('half', eg. 𠁣 *Porticus dmd. sinistra*)
 * dcs. X decussatus (crossed with X)
 * ↔ cnv. conversus
 * ↻ rot. rotatus
