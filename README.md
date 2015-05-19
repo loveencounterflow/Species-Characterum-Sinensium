@@ -145,9 +145,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 木 *Arbor*, arboris
 * 皿 *Pelvis*, pelvis
 * 朱 *Truncus*, trunci
-* 一 *Unus*, unius
+* 一 *Unus*
 * 五 *Quinque*
-* 八 *Octo* (octavus)
+* 八 *Octo*
 * 九 *Novem*
 * 十 *Decem*
 * 山 *Mons*, montis
@@ -197,54 +197,57 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𢦑
 * 戊 wu, 5th heavenly stem
 * 囗 circus, circi
-* 国 ⿴囗玉 Circus iaspidis cpx.; Imperium sx. iasp(idis)
-* 囯 ⿴囗王 Circus regis cpx.; Imperium sx. reg(is)
-* 圀 ⿴囗 Circus octo quadri v. cpx.; Imperium octo quadri
-* 醫 ⿱殹酉 Pharetra-lancea amphoræ, ergo Medicus cc.
-* 殹 ⿰医殳 Pharetra cc. lanceæ, ergo Pharetra-lancea
-* 医 ⿷匚矢 Arca sagittæ, ergo Pharetra cc.; LAng a quiver
-* 矢 sagitta, sagittæ
-* 失 amissio, amissionis *f.3rd*
-* 殳 ⿱几又 lancea, lanceæ; Mensula (crc. lanceola) dextræ
-* 手 manus, manus *f.4th*
-* 扌 Manus e.
-* 又 dextra, dextræ
+* 国 ⿴囗玉 *Circus iaspidis cpx.*, ergo *Imperium cc. sx.* var. *iasp(idis)*
+* 囯 ⿴囗王 *Circus regis cpx.*, ergo *Imperium cc. sx.* var. *reg(is)*
+* 圀 ⿴囗 *Circus octo quadri v. cpx.*, ergo *Imperium cc.* var. *octo quadri*
+* 醫 ⿱殹酉 *Pharetra-lancea amphoræ*, ergo *Medicus cc.*
+* 殹 ⿰医殳 *Pharetra cc. lanceæ*, ergo *Pharetra-lancea*
+* 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; LAng a quiver
+* 矢 *Sagitta*, sagittæ
+* 失 *Amissio*, amissionis *f.3rd*
+* 殳 ⿱几又 *Mensula (crc. lanceola) dextræ*, ergo *Lancea*, lanceæ
+* 手 *Manus*, manus *f.4th*
+* 扌 *Manus e.*
+* 又 *Dextra*, dextræ
 * ?? sinistra, sinistræ
-* 匡 ⿷匚王 Arca regis
-* 匚 arca, arcæ
-* 酉 amphora, amphoræ
-* 方 quadrum, quadri
-* 王 rex, regis
-* 玉 iaspis, ispidis
-* 𠏹 ⿰亻⿱覀⿴囗玉 Vir e. occidentis t. imperi sx. iasp. (Vir occidentis imperi)
+* 匡 ⿷匚王 *Arca regis*
+* 匚 *Arca*, arcæ
+* 酉 *Amphora*, amphoræ
+* 方 *Quadrum*, quadri
+* 王 *Rex*, regis
+* 玉 *Iaspis*, ispidis
+* 𠏹 ⿰亻⿱覀⿴囗玉 *Vir e. occidentis t. imperi sx. iasp.*
 * 𠏹 ⿰亻⿱覀国 Vir e. occidentis t. circus iaspidis cpx.
-* 佛 Vir e. sestertii
-* 弗 Arcus lapsu-columna dcs., vulgo ドル (crc. ドルラル), ergo Sestertius, sestertii, abbr. IIS, HS
-* 丿 lapsus, lapsus *m.4th*
-*  Lapsus columnæ, ergo Lapsus-columna
-* 丨 columna, columnae *f.1st*
-* 亅	Columna hamnata
-*  hamulus, hamuli
-*  uncinus, uncini
-* 田 ager, agri
-* 〢 Columna duplex
-* 刂 Culter e.
-* 利 Ceres cultri
-* 和 Ceres ostii
-* 禾 ceres, cereris
-* 合 Trigonum ostii
-* 可 Robur ostii, ergo Potentia, potentiæ
-* 鼎 caldarius *n.*
-* 丁 robur, roboris
-* 何 Vir e. potentæ
-* 刀 culter, cultri *m.2nd*
-* 弓 arcus, arcus *m.4th*
+* 佛 *Vir e. sestertii*
+* 弗 *Arcus lapsus-columnæ dcs.*, vulgo *ドル* (crc. *ドルラル*), ergo *Sestertius*, sestertii, abbr. IIS, HS
+* 丿 *Lapsus*, lapsus *m.4th*
+*  *Lapsus columnæ*, ergo *Lapsus-columna*
+* 丨 *Columna*, columnae *f.1st*
+* 亅	*Columna hamnata*
+*  *Hamulus, hamuli*
+*  *Uncinus, uncini*
+* 田 *Ager, agri*
+* 〢 *Columna duplex*
+* 刂 *Culter e.*
+* 利 *Ceres cultri*
+* 和 *Ceres ostii*
+* 禾 *Ceres*, cereris
+* 合 *Trigonum ostii*
+* 可 *Robur ostii*, ergo *Potentia*, potentiæ
+* 鼎 *Caldarius* *n.*
+* 丁 *Robur*, roboris; lAng robustness
+* 何 *Vir e. potentiæ*
+* 刀 *Culter*, cultri *m.2nd*
+* 弓 *Arcus*, arcus *m.4th*
 * &jzr#xe250;  ⿰亻⿱覀國
-* 東 oriens, orientis
-* 西 occidens, occidentis
-* 覀 Occidens t.
-* 南 auster, austri
-* 北 boreas, boreæ
+* 東 *Oriens*, orientis
+* 东 *Oriens sx.*
+* 车 *Currus sx.*
+* 車 *Currus*, currus *m.4th*
+* 西 *Occidens*, occidentis
+* 覀 *Occidens t.*
+* 南 *Auster*, austri
+* 北 *Boreas*, boreæ
 
 * cc. concumulatus, concumulata, concumulatum (used for non-elementary, 'accumulated' characters)
 * v. verticalis (for vertical repetitions)
