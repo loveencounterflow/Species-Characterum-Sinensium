@@ -34,7 +34,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𠁣
 * 𠃛
 * 門 porticus, porticus
-* 月 luna, lunæ
+* 月 luna, lunæ sive caro e.
+* 肉 caro, carnis
 * ⺝ luna der., lunæ der.
 * 日 sol, solis
 *  avis nudus
@@ -139,7 +140,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 医 ⿷匚矢 Arca sagittæ, ergo Pharetra cc.; LAng a quiver
 * 矢 sagitta, sagittæ
 * 失 amissio, amissionis *f.3rd*
-* 殳 ⿱几又 lancea, lanceæ; Mensula (lanceola) dextræ
+* 殳 ⿱几又 lancea, lanceæ; Mensula (crc. lanceola) dextræ
 * 又 dextra, dextræ
 * 匡 ⿷匚王 Arca regis
 * 匚 arca, arcæ
@@ -173,3 +174,19 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * sx. simplex (for forms created by simplification)
 * cpx. circumplexus (surrounding)
 * LAng lingua(e) anglica(e) in English
+
+* crc. correctus (or conrectus) (for convenient or conventional forms that
+  are written or quoted in place of the more historically more correct
+  forms, eg. 殳 ⿱几又 Mensula (crc. lanceola) dextræ (ie. what is quoted
+  here as 几 *mensula* should really be quoted as 𠘧 *lanceola*);
+  脇 ⿰月劦 Luna (crc. Caro) viris pyr.)
+
+
+
+
+
+
+
+
+
+
