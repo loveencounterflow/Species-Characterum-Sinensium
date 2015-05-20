@@ -3,14 +3,14 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 
 
 
-* 一 *Trabs*, trabis *f.3rd*; l.ang.: a beam
-* ㇀ *Tignum*, tigni *n.2nd*; l.ang.: a strut
-*  *Assula*, assulæ *f.1st*; l.ang.: a splinter
+* 一 *Trabs*, trabis *f.3rd*; l.Ang.: a beam
+* ㇀ *Tignum*, tigni *n.2nd*; l.Ang.: a strut
+*  *Assula*, assulæ *f.1st*; l.Ang.: a splinter
 * 二 *Duo*
 * 乛 *Pressus min.*
 * 乙 *Pressus mai.*, pressus
 * ㇏ *Saltus*, saltus *m.4th*
-* ㇂ *Hamus*, hami *m.2nd*; l.ang.: an angle (as for fishing)
+* ㇂ *Hamus*, hami *m.2nd*; l.Ang.: an angle (as for fishing)
 * 丿 *Lapsus*, lapsus *m.4th*
 *  *Lapsus columnæ*, ergo *Lapsus-columna*
 * 丨 *Columna (recta)*, columnae *f.1st*
@@ -23,12 +23,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 〇 *Gyrus*, gyri *m.2nd*
 * 龍 *Draco* (var. *trad.*), draconis
 * 龙 *Draco sx.*
-* 𠁣 *Posrticus dmd. sinistra*
-* 𠃛 *Posrticus dmd. dextra*
+* 𠁣 *Porticus dmd. sinistra*
+* 𠃛 *Porticus dmd. dextra*
 * 門 *Porticus*, porticus
-* 月 *Luna*, lunæ; sive *Caro e.*
+* 月 *Luna*, lunæ, sive *Caro e.*
 * 肉 *Caro*, carnis
-* ⺝ *Luna der.*
+* ⺝ *Luna der.*, sive *Caro der.*
 * 日 *Sol*, solis
 * 瓦 *Tegula*, tegulae
 * 瓩 *Tegula millis*
@@ -59,9 +59,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 雨 *Pluvia*, pluviae *f.1st*
 * 語 *Oratio quinque ostii*; *Oratio Ego-ostii*
 * 飛 *Volatus*, volatus *m.4th*
-* 毛 *Pluma*, plumæ
-* 羽 *Penna duplex h.*, ergo *Pinna*, pinnæ *f.1st*
-* 习 *Penna*, pennæ *f.1st*
+* 毛 *Pluma*, plumæ; l.Ang.: plumes
+* 羽 *Penna duplex h.*, ergo *Pinna*, pinnæ *f.1st*; l.Ang.: a wing
+* 习 *Penna*, pennæ *f.1st*; l.Ang.: a feather
 * 聿 *Calamus*, calami *m.2nd*
 * 
 * 
@@ -75,14 +75,23 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𥫗 *Bambusa t.*
 * 竹 *Bambusa*, bambusae
 * 竺 *Bambusa duo v.*, ergo *India cc.*
+* 艸 *Gramen*, graminis *n.3rd*; *Gramen* var. *antiq.*
+* 卄 *Gramen t.*
+* 草 *Gramen t. mane*, ergo *Gramen cc.* vel *Gramen cc. recens*
+* 早 *Sol decem v.*, ergo *Mane*, mane *subst.indecl.*
+* 化 *Vir e. rudiculæ* (crc. ?), ergo *Mutatio cc.*
+* 華 *Gramen t. flosculi*, ergo *Amarantus cc.*, amaranti
+* 蓮 *Gramen t. currus reptans*, ergo *Lotus cc.*
+*  *Flosculus*, flosculi *m.2nd*
+* 花 *Gramen t. Mutatio cc.* ergo *Flos cc.*, floris
 *  *Tectum tripunctatum*
 * 学 *Tectum tripunctatum semenis*, ergo *Studium cc. spx.*
 * 子 *Semen*, seminis *n.3rd*
 * 字 *Tectum seminis*, ergo *Littera cc.*, litteræ *f*
 * 文 *Signum*, signi *n*,
-* 宀 *Tectum*, tecti; l.ang.: roof
+* 宀 *Tectum*, tecti; l.Ang.: roof
 * 冖 *Tectum itc.* [sic]
-* 亠 *Coperculum*, coperculi; l.ang.: lid
+* 亠 *Coperculum*, coperculi; l.Ang.: lid
 * 乊
 * 䒑 *Coperculum bipunctatum*
 * 爪 *Unguis*, unguis *m.3rd*
@@ -100,7 +109,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * &jzr#xe179;
 * 讠 *Oratio esx.*
 * 學
-* 雲 *Pluvia nimbi*
+* 雲 *Pluvia nimbi*, ergo *Nimbus cc.* var. *trad.*
 * 桌 *Mensa*, mensæ
 * 几 *Mensula*, mensulæ
 * 𠘧 *Lanceola*, lanceolæ
@@ -116,8 +125,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 亼 *Trigonum*, trigoni
 * 卩 *Sigillum*, sigilli
 * 匕 *Rudicula*, rudiculæ
-*  *Rudicula duplex verticalis*
-* 𣬅 *Rudicula quad.*
+*  *Rudicula 2x celsus*
+* 𣬅 *Rudicula 4x (quad.)*
 * 自 *Ego-nasus* (ego-n)
 * 鼻 *Nasus*, nasi *m.2nd*
 * 己 *Ego-serpens* (ego-s), Serpens devoluta
@@ -129,8 +138,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 厶 *Anellus*, anelli *m.2nd*
 * 㕕 *Anellus 2x celsus*
 * 厸 *Anellus 2x latus*
-* 厽 *Anellus 3x pyr.*
-* 𠫬 *Anellus 4x quad.*
+* 厽 *Anellus 3x (pyr.)*
+* 𠫬 *Anellus 4x (quad.)*
 * 石 *Lapis*, lapidis
 * 平 *Libra*, libræ
 * 田 *Campus*, campi
@@ -183,8 +192,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 問 *Porticus ostii*
 * 國 ⿴囗或 *Circus pili ostii unus*, ergo *Circus regni cc.*, ergo *Imperium cc.* var. *trad.*, imperi(i)
 * 或 ⿹戈⿱口一 regnum, regni cc.; Pilum ostii (crc. circi) unus, ergo Regnum cc.
-* 戈 *Pilum*, pili *f.2nd*; l.ang.: a javelin
-* 弋 *Ictus*, ictus *m*; l.ang.: a hitting shot
+* 戈 *Pilum*, pili *f.2nd*; l.Ang.: a javelin
+* 弋 *Ictus*, ictus *m*; l.Ang.: a hitting shot
 * 𢍺 *Ictus* var. *antiqua*
 *  *Ictus nud.*
 * 𢍼
@@ -199,7 +208,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 圀 ⿴囗 *Circus octo quadri v. cpx.*, ergo *Imperium cc.* var. *octo quadri*
 * 醫 ⿱殹酉 *Pharetra-lancea amphoræ*, ergo *Medicus cc.*
 * 殹 ⿰医殳 *Pharetra cc. lanceæ*, ergo *Pharetra-lancea*
-* 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; l.ang.: a quiver
+* 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; l.Ang.: a quiver
 * 矢 *Sagitta*, sagittæ
 * 失 *Amissio*, amissionis *f.3rd*
 * 殳 ⿱几又 *Mensula (crc. lanceola) dextræ*, ergo *Lancea*, lanceæ
@@ -251,7 +260,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * var. varietas, varietatis *f.3rd*
 * var. *ant.* varietas antiqua
 * var. *trad.* varietas traditionalis
-* var. *iap.* varietas Iaponica
+* var. *Iap.* varietas Iaponica
 * min. minor, the lesser
 * mai. maior, the greater
 * sup. superior
@@ -273,7 +282,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 3x triplex
 * 4x quadruplex
 * cpx. circumplexus (surrounding)
-* l.ang. linguæ anglicæ, in English
+* l.Ang. linguæ Anglicæ, in English
 * crc. correctus (or conrectus) (for convenient or conventional forms that
   are written or quoted in place of the more historically more correct
   forms, eg. 殳 ⿱几又 Mensula (crc. lanceola) dextræ (ie. what is quoted
