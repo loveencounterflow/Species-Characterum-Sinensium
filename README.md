@@ -17,8 +17,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 亅	*Columna angulata*
 *  *Angulus*, anguli
 *  *Hamulus*, hamuli
-* 〢 *Columna duplex*
-* 刂 *Columna (recta) columnæ angulatæ*, sive *Columna duplex angulata*, ergo *Culter e.*
+* 〢 *Columna 2x*
+* 刂 *Columna (recta) columnæ angulatæ*, sive *Columna 2x angulata*, ergo *Culter e.*
 *  *Columna (recta) lapsus*
 * 〇 *Gyrus*, gyri *m.2nd*
 * 龍 *Draco* (var. *trad.*), draconis
@@ -33,17 +33,21 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 瓦 *Tegula*, tegulae
 * 瓩 *Tegula millis*
 * 千 *Mille*, millis *n.3rd*
+* 角 *Beccus usus*, ergo *Cornu*, cornus *m*
+* 𠂊 *Beccus*, becci *m.2nd*; l.Ang.: a beak
+* 甬 *Anellus inv. usus*, ergo *Gemma*, gemmae *f.1st*
+* 用 *Usus*, usus *m.4th*
 *  *Avis nudus*
 * 鳥 *Avis*, avis
 * 隹 *Avicula*, aviculæ
 * 乍 *Procursatio*, procursationis
-* 辵 *Ambulatio*, ambulationis; repto, reptare, reptavi, reptatus
-* 辶 *Ambulatiuncula*, ambulatiunculæ; ... reptans
+* 辵 *Spatium mai.*, spatii *n.2nd*
+* 辶 *Spatium (min.)*
 * 衣 *Vestis*, vestis
 * 衤 *Vestis e.*
 * 礻 *Augurium e.*
 * 卜 *Fissum*, fissi
-* 示 *Augurium*, auguri(i)
+* 示 *Augurium*, augurii
 * 占 *Omen*, ominis
 * 心 *Cor*, cordis
 * 忄 *Cor e.*
@@ -69,9 +73,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𦘒=帇
 * 筆 *Bambusa calami*, ergo *Penicillus cc.*, pennicilli *m*
 * 丶 *Punctum*, puncti *n.2nd*
-*  *Bambusa dmd.*
-*  *Bambusa dmd.*
-*  *Bambusa dmd.*
+*  *Bambusa dmd. sinistra*
+*  *Bambusa dmd. dextra*
+*  *Bambusa t. dmd.*
 * 𥫗 *Bambusa t.*
 * 竹 *Bambusa*, bambusae
 * 竺 *Bambusa duo v.*, ergo *India cc.*
@@ -81,7 +85,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 早 *Sol decem v.*, ergo *Mane*, mane *subst.indecl.*
 * 化 *Vir e. rudiculæ* (crc. ?), ergo *Mutatio cc.*
 * 華 *Gramen t. flosculi*, ergo *Amarantus cc.*, amaranti
-* 蓮 *Gramen t. currus reptans*, ergo *Lotus cc.*
+* 蓮 *Gramen t. currus spatii*, ergo *Lotus cc.*
 *  *Flosculus*, flosculi *m.2nd*
 * 花 *Gramen t. Mutatio cc.* ergo *Flos cc.*, floris
 *  *Tectum tripunctatum*
@@ -171,9 +175,9 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 研 ⿰石开 *Lapis planitiæ*
 * 究 ⿱穴九 *Cavum novem*
 * 信 ⿰亻言 *Vir e. orationis*
-* 迷 米辶 *Oriza reptans*
-* 這 言辶 *Oratio reptans*
-* 述 术辶 *Ars reptans*
+* 迷 米辶 *Oriza spatii*
+* 這 言辶 *Oratio spatii*
+* 述 术辶 *Ars spatii*
 * 熊 *Ursa cc.*; *Ipsus lunæ derectæ ante rudiculam dupl. v. supra ignim(?) t.*
 * 明 ⿰日月 *Sol lunæ*, ergo *Candor cc.*, candoris
 * 光 *Lux*, lucis
@@ -206,14 +210,24 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 国 ⿴囗玉 *Circus iaspidis cpx.*, ergo *Imperium cc. sx.* var. *iasp(idis)*
 * 囯 ⿴囗王 *Circus regis cpx.*, ergo *Imperium cc. sx.* var. *reg(is)*
 * 圀 ⿴囗 *Circus octo quadri v. cpx.*, ergo *Imperium cc.* var. *octo quadri*
-* 醫 ⿱殹酉 *Pharetra-lancea amphoræ*, ergo *Medicus cc.*
-* 殹 ⿰医殳 *Pharetra cc. lanceæ*, ergo *Pharetra-lancea*
+* 醫 ⿱殹酉 *Pharetra-lancea cc. amphoræ*, ergo *Medicus cc.*
+* 殹 ⿰医殳 *Pharetra cc. lanceæ*, ergo *Pharetra-lancea cc.*
 * 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; l.Ang.: a quiver
 * 矢 *Sagitta*, sagittæ
 * 失 *Amissio*, amissionis *f.3rd*
 * 殳 ⿱几又 *Mensula (crc. lanceola) dextræ*, ergo *Lancea*, lanceæ
 * 手 *Manus*, manus *f.4th*
 * 扌 *Manus e.*
+* 龵 *Manus lapsatus(?)*, *Manus obliqua*
+* 看 *Manus obl. oculi*
+* 目 *Oculus*, oculi *m*
+* 工 *Opera*, operæ *f.1st*
+* 江 *Aqua e. operæ*
+* 河 *Aqua e. potentiæ*
+* 川 *Rivus*, rivi *m.2nd*
+* 見 *Oculus viruli*, ergo *Acies*, aciei *f.5th*
+* 耳 *Auris*, auris *f.3rd*
+* 儿 *Virulus*
 * 又 *Dextra*, dextræ
 * ?? sinistra, sinistræ
 * 匡 ⿷匚王 *Arca regis*
@@ -230,10 +244,13 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 利 *Ceres cultri*
 * 和 *Ceres ostii*
 * 禾 *Ceres*, cereris
+* 本 *Radix*, radicis *f.3rd*
+* 未 *Imperfectio*, imperfectionis *f.3rd*
+* 末 *Finis*, finis *mf.3rd*
 * 合 *Trigonum ostii*
 * 可 *Robur ostii*, ergo *Potentia*, potentiæ
 * 鼎 *Caldarius* *n.*
-* 丁 *Robur*, roboris; lAng robustness
+* 丁 *Robur*, roboris; l.Ang.: robustness
 * 何 *Vir e. potentiæ*
 * 刀 *Culter*, cultri *m.2nd*
 * 弓 *Arcus*, arcus *m.4th*
