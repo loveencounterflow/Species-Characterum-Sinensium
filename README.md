@@ -2,6 +2,41 @@
 Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文字二名法
 
 
+⿰ *l.*, *latus*
+⿲ *lss.*, *latissimus* (only when *3x*)
+⿱ *c.*, *celsus*
+⿳ *css.*, *celtissimus* (only when *3x*)
+
+⿴ *cpx*, *circumplexus*
+
+⿵ *i*, *ianua* (door)
+⿶ *crater*
+⿷ *arca*, arcæ
+
+⿸
+⿹
+⿺ *gerulus* (porter)
+◰
+
+⿻ *dcs*, *decussatus* (crossed with X)
+
+
+* ↔ cnv. conversus
+* ↻ rot. rotatus
+* ↕ inv. inversus
+* quad. quadratus
+<!-- * pyr. pyramidalis (?) -->
+
+
+
+
+* 㠀 ⿱鳥山 *c. Avis plen. montis*
+* 島 ⿹山 *c. Avis nud. montis*
+* 嶋 ⿰山鳥 *l. Mons avis*
+* 嶌 ⿱山鳥 *c. Mons avis*
+* 品 *pyr Ostium*
+* 𠱠 *lss. Ostium*
+* 化 *l. Vir e. rudiculæ* (crc. ?), ergo *Mutatio cc.*
 
 * 一 *Trabs*, trabis *f.3rd*; l.Ang.: a beam
 * ㇀ *Tignum*, tigni *n.2nd*; l.Ang.: a strut
@@ -61,7 +96,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 曰 *Dictio*, dictionis
 * 云 *Nimbus*, nimbi *m.2nd*
 * 雨 *Pluvia*, pluviae *f.1st*
-* 語 *Oratio quinque ostii*; *Oratio Ego-ostii*
+* 語 ⿰言⿱五口 *l Oratio c. quinque ostii*; *Oratio Ego-ostii*
 * 飛 *Volatus*, volatus *m.4th*
 * 毛 *Pluma*, plumæ; l.Ang.: plumes
 * 羽 *Penna duplex h.*, ergo *Pinna*, pinnæ *f.1st*; l.Ang.: a wing
@@ -123,7 +158,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 口 *Ostium*, ostii *n.2nd*
 * 乂 *Crux*, crucis
 * 骨 *Os*, ossis *n.3rd*
-* 米 *Oriza*
+* 米 *Mica*
+* 粉 *Mica octo cultri*
 * 术 *Ars*, artis (?)
 * 白 *Album*, albi *n.2nd*
 * 亼 *Trigonum*, trigoni
@@ -146,9 +182,35 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 𠫬 *Anellus 4x (quad.)*
 * 石 *Lapis*, lapidis
 * 平 *Libra*, libræ
+* 足 *Pes*, pedis *m.3rd*
+* 路 *Pes pulsus ostii*, ergo *Strata cc.*, stratæ *f*
+* 道 *Caput spacii*, ergo *Via cc.*, viae
+* 首 *Caput*, capitis *n.3rd*
+* 夊 *Pulsus*, pulsus *m.4th*
+* 各	*Pulsus ostii*
+* 冬
+* 冫 *Glacies*, glaciei *f.5th*
+* 靈 *Pluvia ostii 3x operæ viri 2x*
+* 品	*Ostium (3x) pyr.*
+* 𠱠 *Ostium 3x (latus)*
 * 田 *Campus*, campi
 * 舟 *Navis*, navalis
 * 穴 *Tectum octo*, ergo *Cavum*, cavi
+* 貝 *Concha*, conchae *f.1st*
+* 圓 *Circus ostii conchae*, ergo *As cc.*, assis *m.3rd*
+* 氣 *Pneuma micæ*
+* 气 *Pneuma*, pneumatis *n.3rd*
+* 經 *Sericum e. telæ*
+* 幺
+* 糸 *Sericum*, serici *n.2nd*
+* 丝
+* 纟 *Sericum e. sx.*
+* 糹 *Sericum e.*
+* 絲 *Sericum e. serici*
+* 巠 *Tela*, telæ *f.1st*
+* 坙
+* 氫 *Pneuma telæ*
+* 氢
 * 木 *Arbor*, arboris
 * 皿 *Pelvis*, pelvis
 * 朱 *Truncus*, trunci
@@ -175,7 +237,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 研 ⿰石开 *Lapis planitiæ*
 * 究 ⿱穴九 *Cavum novem*
 * 信 ⿰亻言 *Vir e. orationis*
-* 迷 米辶 *Oriza spatii*
+* 迷 米辶 *Mica spatii*
 * 這 言辶 *Oratio spatii*
 * 述 术辶 *Ars spatii*
 * 熊 *Ursa cc.*; *Ipsus lunæ derectæ ante rudiculam dupl. v. supra ignim(?) t.*
@@ -212,7 +274,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 圀 ⿴囗 *Circus octo quadri v. cpx.*, ergo *Imperium cc.* var. *octo quadri*
 * 醫 ⿱殹酉 *Pharetra-lancea cc. amphoræ*, ergo *Medicus cc.*
 * 殹 ⿰医殳 *Pharetra cc. lanceæ*, ergo *Pharetra-lancea cc.*
-* 医 ⿷匚矢 *Arca sagittæ*, ergo *Pharetra cc.*; l.Ang.: a quiver
+* 医 ⿷匚矢 *Buxus sagittæ*, ergo *Pharetra cc.*; l.Ang.: a quiver
 * 矢 *Sagitta*, sagittæ
 * 失 *Amissio*, amissionis *f.3rd*
 * 殳 ⿱几又 *Mensula (crc. lanceola) dextræ*, ergo *Lancea*, lanceæ
@@ -230,8 +292,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 儿 *Virulus*
 * 又 *Dextra*, dextræ
 * ?? sinistra, sinistræ
-* 匡 ⿷匚王 *Arca regis*
-* 匚 *Arca*, arcæ
+* 匡 ⿷匚王 *Buxus regis*
+* 匚 *Buxus*, buxi
 * 酉 *Amphora*, amphoræ
 * 田 *Ager, agri*
 * 方 *Quadrum*, quadri
@@ -287,18 +349,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * plen. plenus (full form in contradistinction to a reduced one, eg.  㠀 Avis plen. montis in contradistinction to the more common 島 Avis nud. montis)
 * der. derectus ('upright' look-alike, as in 月 luna, ⺝ luna der.)
 * dmd. demidius ('half', eg. 𠁣 *Porticus dmd. sinistra*)
-* dcs. X decussatus (crossed with X)
-* ↔ cnv. conversus
-* ↻ rot. rotatus
-* ↕ inv. inversus
-* quad. quadratus
-* pyr. pyramidalis (?)
 * triglyphus
 * sx. simplex (for forms created by simplification)
 * 2x duplex
 * 3x triplex
 * 4x quadruplex
-* cpx. circumplexus (surrounding)
 * l.Ang. linguæ Anglicæ, in English
 * crc. correctus (or conrectus) (for convenient or conventional forms that
   are written or quoted in place of the more historically more correct
