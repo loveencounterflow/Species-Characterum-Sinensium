@@ -27,8 +27,16 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * quad. quadratus
 <!-- * pyr. pyramidalis (?) -->
 
+相: ⿰木目
+林: ⿰木木
+林: ⿰2木
 
-
+吅: ⿰口口
+吅: ⿰2口
+𠱠: (⿰口口口)
+𠱠: ⿰3口
+回: ⿴口口
+回: ⿴2口
 
 * 㠀 ⿱鳥山 *c. Avis plen. montis*
 * 島 ⿹山 *c. Avis nud. montis*
