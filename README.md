@@ -333,8 +333,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 覀 *Occidens t.*
 * 南 *Auster*, austri
 * 北 *Boreas*, boreæ
+* A:uc0---:007384:玄 *Arcanum*
+* A:ucxb--:0248e5:𤣥 *Arcanum attenuatissimum*
 
 ## Conventions
+
 
 ## Abbreviations
 
@@ -371,7 +374,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * quincunx, quincuncis (the form that five elements are arranged as in 器 etc.)
 
 
+<B>attenuatus, attenuata -um, attenuatior -or -us, attenuatissimus -a -um  ADJ</B>  [XXXEO]<BR>
+plain (style), bare, subdued; thin, impoverished; lessened, diminished;<BR>
 
+attenuatus—reduced version of a glyph;
+attenuatissimus—the same, explicitly to conform to naming taboo
 
 
 
