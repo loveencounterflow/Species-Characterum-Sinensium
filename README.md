@@ -42,7 +42,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 島 ⿹山 *c. Avis nud. montis*
 * 嶋 ⿰山鳥 *l. Mons avis*
 * 嶌 ⿱山鳥 *c. Mons avis*
-* 品 *pyr Ostium*
+* 品 *pyr. Ostium*
 * 𠱠 *lss. Ostium*
 * 化 *l. Vir e. rudiculæ* (crc. ?), ergo *Mutatio cc.*
 
@@ -306,7 +306,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 田 *Ager, agri*
 * 方 *Quadrum*, quadri
 * 王 *Rex*, regis
-* 玉 *Iaspis*, ispidis
+* 玉 *Iaspis*, ispidis (*Gemma*, gemmæ)
 * 𠏹 ⿰亻⿱覀⿴囗玉 *Vir e. occidentis t. imperi sx. iasp.*
 * 𠏹 ⿰亻⿱覀国 *Vir e. occidentis t. circus iaspidis cpx.*
 * 佛 *Vir e. sestertii*
@@ -335,13 +335,34 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 北 *Boreas*, boreæ
 * A:uc0---:007384:玄 *Arcanum*
 * A:ucxb--:0248e5:𤣥 *Arcanum attenuatissimum*
+* 虎 *f. Tigris mai.*, tigridis  *n.3rd*
+* 虍 *f. Tigris min.*
+*  *f. Caput tigridis*
+* 京 *Meacus* (adj. *meacensis*), Capital (Lat. form of Jap. みやこ)
+* 瓜 *Melo* (*Pepo*, peponis)
+* 眉 *Supercilia* (eyebrow)
+* 鬯 *Cafea americana* (cf. http://languagelog.ldc.upenn.edu/nll/?p=38784, https://www.nippon.com/en/nipponblog/m00088/)
+* 桑 *Dextra pyr. arboris*, ergo *d. Morus*, mori *n 2nd f*
+* 㕖 *Anellus pyr. arboris*
+* 𣛁 *Aqua pyr. arboris*
+* 叒 *Dextra pyr.*
+
+
 
 ## Conventions
 
 
 ## Abbreviations
 
+* f. factor (prepended to indicate that the character in question is classified as a factor,
+    ex. 虍 *f. Tigris minor*, 弓 *f. Arcus*; also see *d.*)
+
+> ### TAINT decide whether to use *cc.* or *d.* ###
+
+* d. derivativum (prepended to indicate that the character in question is classified as
+    a derivative (i.e. a compositum of several factors); ex. )
 * cc. concumulatus, concumulata, concumulatum (used for non-elementary, 'accumulated' characters)
+
 * v. verticalis (for vertical repetitions)
 * h. horizontalis (for horizontal repetitions)
 * e. elongatus (for a common upright variant used on the left hand side)
@@ -380,7 +401,15 @@ plain (style), bare, subdued; thin, impoverished; lessened, diminished;<BR>
 attenuatus—reduced version of a glyph;
 attenuatissimus—the same, explicitly to conform to naming taboo
 
+### Annotations
 
+[Osterkamp (2010) *The Japanese studies of Andreas Mueller*](https://www.ruhr-uni-bochum.de/sulj/pdfs/Osterkamp_2010_The_Japanese_studies_of_Andreas_Mueller.pdf),
+p80n2, about the term *Meacus*:
+
+>  As already mentioned by Lewin (1999: 95, note 10), this adjective is derived
+>  from miyako 京 ‘capital’, i.e. Kyōto.  Both *meacensis* as an adjective and
+>  *Meacus* as the underlying noun are amply attested since the second half of
+>  the 16th century in the Latin literature on Japan and its mission.
 
 
 
