@@ -1,24 +1,25 @@
-# Species-Characterum-Sinensium
-Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文字二名法
 
 
-⿰ *l.*, *latus*
-⿲ *lss.*, *latissimus* (only when *3x*)
-⿱ *c.*, *celsus*
-⿳ *css.*, *celtissimus* (only when *3x*)
+# Species Characterum Sinensium
 
-⿴ *cpx*, *circumplexus*
+<scale abs=2><b><center>中日韓文字二名法<vspace abs=2/></center></b></scale>
 
-⿵ *i*, *ianua* (door)
-⿶ *crater*
-⿷ *arca*, arcæ
+Binomial nomenclature for Chinese, Japanese, and Korean Characters
 
-⿸
-⿹
-⿺ *gerulus* (porter)
-◰
 
-⿻ *dcs*, *decussatus* (crossed with X)
+* ⿰ *l.*, *latus*
+* ⿲ *lss.*, *latissimus* (only when *3x*)
+* ⿱ *c.*, *celsus*
+* ⿳ *css.*, *celtissimus* (only when *3x*)
+* ⿴ *cpx*, *circumplexus*
+* ⿵ *i*, *ianua* (door)
+* ⿶ *crater*
+* ⿷ *arca*, arcæ
+* ⿸
+* ⿹
+* ⿺ *gerulus* (porter)
+* ◰
+* ⿻ *dcs*, *decussatus* (crossed with X)
 
 
 * ↔ cnv. conversus
@@ -27,16 +28,15 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * quad. quadratus
 <!-- * pyr. pyramidalis (?) -->
 
-相: ⿰木目
-林: ⿰木木
-林: ⿰2木
-
-吅: ⿰口口
-吅: ⿰2口
-𠱠: (⿰口口口)
-𠱠: ⿰3口
-回: ⿴口口
-回: ⿴2口
+* 相: ⿰木目
+* 林: ⿰木木
+* 林: ⿰2木
+* 吅: ⿰口口
+* 吅: ⿰2口
+* 𠱠: (⿰口口口)
+* 𠱠: ⿰3口
+* 回: ⿴口口
+* 回: ⿴2口
 
 * 㠀 ⿱鳥山 *c. Avis plen. montis*
 * 島 ⿹山 *c. Avis nud. montis*
@@ -343,7 +343,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * 眉 *Supercilia* (eyebrow)
 * 鬯 *Cafea americana* (cf. http://languagelog.ldc.upenn.edu/nll/?p=38784, https://www.nippon.com/en/nipponblog/m00088/)
 * 桑 *Dextra pyr. arboris*, ergo *d. Morus*, mori *n 2nd f*
-* 㕖 *Anellus pyr. arboris*
+* 㕖 *Anellus pyr. arboris* (variant of 素)
 * 𣛁 *Aqua pyr. arboris*
 * 叒 *Dextra pyr.*
 
@@ -395,11 +395,11 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters 中日韓文�
 * quincunx, quincuncis (the form that five elements are arranged as in 器 etc.)
 
 
-<B>attenuatus, attenuata -um, attenuatior -or -us, attenuatissimus -a -um  ADJ</B>  [XXXEO]<BR>
-plain (style), bare, subdued; thin, impoverished; lessened, diminished;<BR>
+<b>attenuatus, attenuata -um, attenuatior -or -us, attenuatissimus -a -um  ADJ</b>  [XXXEO]&nl;
+plain (style), bare, subdued; thin, impoverished; lessened, diminished;&nl;
 
-attenuatus—reduced version of a glyph;
-attenuatissimus—the same, explicitly to conform to naming taboo
+* attenuatus—reduced version of a glyph;
+* attenuatissimus—the same, explicitly to conform to naming taboo
 
 ### Annotations
 
