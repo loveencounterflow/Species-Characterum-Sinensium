@@ -68,7 +68,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 龙 *Draco sx.*
 * 𠁣 *Porticus dmd. sinistra*
 * 𠃛 *Porticus dmd. dextra*
-* 門 *Porticus*, porticus
+* 門 *Porticus*, porticus；*Ianua*, ianuæ (Callery)
 * 月 *Luna*, lunæ, sive *Caro e.*
 * 肉 *Caro*, carnis
 * ⺝ *Luna der.*, sive *Caro der.*
@@ -347,6 +347,19 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 𣛁 *Aqua pyr. arboris*
 * 叒 *Dextra pyr.*
 
+## From Systema Phoneticum Scripturae Sinicae. Callery 1841
+
+* 井 Puteus. Fons. (Puits. Fontaine.)
+* 夫 Vir. Maritus. Operarius. (Homme. Mari. Ouvrier.)
+* 云 Dicere, Loqui. Nubes; vapores. (Dire, Parler. Nuages; vapeurs.)
+* 王 Rex; regnare; regnum. (Roi; regner; royaume.)
+* 厄 Infortunium, calamitas. Egere. (Malheur, calamite. Etre dans le besoin.)
+* 反 Contrarium, e contra; oppositum. Reverti. (Le contraire, oppose. S'en retourner.)
+* 土 Terra, tellus; regio; regnum. (Terre; pays; royaume.)
+
+
+
+
 
 
 ## Conventions
@@ -414,4 +427,4 @@ p80n2, about the term *Meacus*:
 ### See Also
 
 * https://en.wikipedia.org/wiki/Cirrus_cloud#Species
-
+* http://www.horg.com/horg/?page_id=2024
