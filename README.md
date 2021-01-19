@@ -364,6 +364,19 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 
 ## Conventions
 
+## Epithets
+
+* intricatus - sehr verworren
+* japonicus - aus Japan
+* koreanus, koraianus - aus Korea
+* laciniatus - ausgefranst, zipfelig
+* laciniosus - vielzipflig
+* linearis - fadenförmig
+* maculatus - gefleckt
+* magnificus - großartig
+* majesticus - erhaben, vortrefflich
+* major - größer
+
 
 ## Abbreviations
 
