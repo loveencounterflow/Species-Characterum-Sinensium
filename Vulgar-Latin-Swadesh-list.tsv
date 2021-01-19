@@ -1,0 +1,208 @@
+No.	English	Vulgar Latin
+1	I	*eo , *ego (*io)
+2	you (singular)	*tu
+3	he	*ille (*elle)
+4	we	*nos , *nosotri (*nostri)
+5	you (plural)	*vos , *vosotri (*vestri)
+6	they	*elles (*elli)
+7	this	*aquesto ( *eccum iste )
+8	that	*aquello ( *eccum ille )
+9	here	*aqui ( *eccum hic )
+10	there	*illa , *alli (*illic)
+11	who	*qui (*quis)
+12	what	*que
+13	where	*onde (*unde)
+14	when	*quando
+15	how	*quomo , *quomodo
+16	not	*no (*non)
+17	all	*tuto , *totu
+18	many	*multo (*multi, *multu)
+19	some	*alicunus ( *alq unos , *aliqui), *qual quo
+20	few	*poco (*paucus)
+21	other	*altro , *otro (*alter)
+22	one	*uno (*unus, *unu)
+23	two	*dos (*duo)
+24	three	*tres
+25	four	*quattro (*quattuor)
+26	five	*cinque ( *quinque )
+27	big	*grande (*grandis)
+28	long	*longo (*longus, *longu)
+29	wide	*largo (*largus)
+30	thick	*grosso (*grossus), *spisso (*spissus)
+31	heavy	*grave (*gravis), *pesant
+32	small	*piccolo , *pittitus
+33	short	*curtu (*corto)
+34	narrow	*strictus ( *estricto )
+35	thin	*sottile (*subtilis, *subtile), *magro (*macer)
+36	woman	*mulier , *femina , *domna (*domina)
+37	man (adult male)	*homo
+38	man (human being)	*humano (*homo, *homine), *persona
+39	child	*infante (*infans)
+40	wife	*sponsa , *mulier
+41	husband	*marito (*maritus)
+42	mother	*matre (*mater)
+43	father	*patre (*pater)
+44	animal	*animale (*animal), *bestia (*bistia)
+45	fish	*pisco ( *piscis , *pesce)
+46	bird	*avicellus , *avis , *passaru (*passer)
+47	dog	*cane (*canis)
+48	louse	*pedicellus ( *pediculu )
+49	snake	*serpente (*serpens)
+50	worm	*vermo (*vermis, *verme)
+51	tree	*arborus ( *arbor )
+52	forest	*foresta , *bosco (*boscus)
+53	stick	*basto (*bastum, *baston), *palo (*palus)
+54	fruit	*fructo (*fructus)
+55	seed	*sementia ( *semente , *semen)
+56	leaf	*folia (*folium)
+57	root	*radice (*radix)
+58	bark (of a tree)	*scorcia (*scortea, *cortice)
+59	flower	*flos (*flor, *floris)
+60	grass	*herba
+61	rope	*corda (*chorda)
+62	skin	*pelle (*pellis)
+63	meat	*carne (*caro, *carnis)
+64	blood	*sangre (*sanguis, *sanguine)
+65	bone	*osso (*os, *ossis)
+66	fat (noun)	*grasso (*crassus, *grassu)
+67	egg	*ovus (*ovu)
+68	horn	*cornu (*corno)
+69	tail	*coda (*cauda)
+70	feather	*penna , *pluma
+71	hair	*pelo (*pilus), *capello (*capillu)
+72	head	*capo ( *capu , *capitia), *testa
+73	ear	*oricla (*auricula, *auris)
+74	eye	*oclus (*oculus, *oclu)
+75	nose	*nasus , *narices (*nasu, *naris)
+76	mouth	*bucca
+77	tooth	*dente (*dens)
+78	tongue (organ)	*lingua
+79	fingernail	*unga (*unguis, *ungula)
+80	foot	*pede (*pes), *patta
+81	leg	*gamba , *perna
+82	knee	*genuclum ( *geniculu , *genu)
+83	hand	*manu ( *manus )
+84	wing	*ala
+85	belly	*venter (*ventres, *ventre), *pantex (*pantices)
+86	guts	*intestino , *viscera
+87	neck	*collo , *nucha , *cervix
+88	back	*dorso (*dorsus)
+89	breast	*pectus (*pectu), *seno (*sinus)
+90	heart	*coratio , *cor
+91	liver	*fegato (*ficatu)
+92	to drink	*bibere (*bebere)
+93	to eat	*manducare (*manjar, *mangiare), *comedere (*comere)
+94	to bite	*mordere
+95	to suck	*sugere
+96	to spit	*spuere , *exconspuere (*sputare, *conspuo)
+97	to vomit	*vomere , *vomitare
+98	to blow	*soffiare (*sufflare), *buffare
+99	to breathe	*respirare
+100	to laugh	*ridere
+101	to see	*videre (*video)
+102	to hear	*audire (*audio), *sentire
+103	to know	*sapere ( *savere , *sabere)
+104	to think	*pensare
+105	to smell	*olere , *sentire , *intendere
+106	to fear	*timere
+107	to sleep	*dormire , *collocare
+108	to live	*vivere
+109	to die	*morire ( *mori )
+110	to kill	*matare , *tutare , *occidere
+111	to fight	*combattere ( *battere ), *luctare
+112	to hunt	*captiare (*cacciare, *chassare)
+113	to hit	*colpare , *battere
+114	to cut	*taliare , *curtare
+115	to split	*dividere , *separare
+116	to stab	*pungere (*pugnalare)
+117	to scratch	*radere , *scabere
+118	to dig	*excavare
+119	to swim	*nadare (*natare)
+120	to fly	*volare
+121	to walk	*caminare , *andare ( *ambire , *amnare)
+122	to come	*venire
+123	to lie (as in a bed)	*iacere
+124	to sit	*sedentare , *assedere ( *sedere )
+125	to stand	*stare in pede
+126	to turn (intransitive)	*girare , *virare , *tornare
+127	to fall	*cadere
+128	to give	*dare , *donare
+129	to hold	*tenere
+130	to squeeze	*exprimere (*premere)
+131	to rub	*fricare
+132	to wash	*lavare
+133	to wipe	*exsucare (*essugare)
+134	to pull	*tirare , *trahere (*trago)
+135	to push	*pulsare
+136	to throw	*iectare , *lanceare
+137	to tie	*ligare , *aptare
+138	to sew	*cosere ( *consuere , *suere )
+139	to count	*comptare (*computare, *contare)
+140	to say	*dire , *dicere
+141	to sing	*cantare
+142	to play	*iocare ( *jugare )
+143	to float	*fluctuare (*flotare)
+144	to flow	*fluere , *currere
+145	to freeze	*gelare , *congelare (*geare), *fresco
+146	to swell	*inflare
+147	sun	*sol ( *soliculus )
+148	moon	*luna
+149	star	*stella (*estrella)
+150	water	*aqua
+151	rain	*ploia ( *pluvia )
+152	river	*flumen , *rivus (*rio)
+153	lake	*lago (*lacu)
+154	sea	*mar (*mare)
+155	salt	*sal (*sale)
+156	stone	*petra (*pietra, *pedra)
+157	sand	*arena , *sablo
+158	dust	*pulvis (*pulus)
+159	earth	*terra
+160	cloud	*nube , *nuvola (*nubilu)
+161	fog	*nebula
+162	sky	*caelo (*celo)
+163	wind	*vento (*ventu)
+164	snow	*nivo ( *neve )
+165	ice	*gielu , *glacia ( *glassa )
+166	smoke	*fumo (*fumu)
+167	fire	*fuego (*focus, *fogo)
+168	ash	*cinusia ( *cinis , *cinere)
+169	to burn	*brusire , *ardere , *cremare
+170	road	*via , *strada (*strata), *camin (*camminus)
+171	mountain	*monte ( *mont ), *montania
+172	red	*rosso (*russu), *rubis
+173	green	*verde (*virdis)
+174	yellow	*giallo (*galbinu)
+175	white	*blancus (*blanco)
+176	black	*negro (*nigro, *nero)
+177	night	*nocte (*notte, *noctis)
+178	day	*dia , *dies , *juorno (*diurnu)
+179	year	*anno (*annu)
+180	warm	*calidus (*caldo), *calor
+181	cold	*fredo (*frigide)
+182	full	*pleno (*plenu)
+183	new	*nuovo (*nouvo, *nove)
+184	old	*vetulus , *veclus (*viello, *vetus)
+185	good	*bono (*bonu, *bon)
+186	bad	*malo , *malvado
+187	rotten	*putrido , *podre
+188	dirty	*sordido , *sucio
+189	straight	*recto , *directo ( *drectus )
+190	round	*rotondo (*retundus)
+191	sharp (as a knife)	*acuto , *affilato
+192	dull (as a knife)	*muttius (*smussato), *rombo
+193	smooth	*liscio (*liseus, *levis)
+194	wet	*baneum (*bagnato), *molliato (*mollio)
+195	dry	*seco (*sec, *siccu)
+196	correct	*correcto , *justo
+197	near	*proxime (*propius), *vicino
+198	far	*lontano , *distante
+199	right	*destra (*dextre), *directa
+200	left	*sinister
+201	at	*ad (*a)
+202	in	*in
+203	with	*cum (*con), *abhoc
+204	and	*et (*e)
+205	if	*si (*se)
+206	because	*por que (*perquid)
+207	name	*nomine , *nomen
