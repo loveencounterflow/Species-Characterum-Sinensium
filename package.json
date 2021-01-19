@@ -1,0 +1,30 @@
+{
+  "name": "species-characterum-sinensium",
+  "version": "1.0.0",
+  "description": "<scale abs=2><b><center>中日韓文字二名法<vspace abs=2/></center></b></scale>",
+  "main": "lib/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveencounterflow/Species-Characterum-Sinensium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loveencounterflow/Species-Characterum-Sinensium/issues"
+  },
+  "homepage": "https://github.com/loveencounterflow/Species-Characterum-Sinensium#readme",
+  "dependencies": {
+    "cnd": "^4.9.0",
+    "datom": "^2.4.0",
+    "htmlparser2": "^4.0.0",
+    "intertype": "^2.8.0",
+    "multimix": "^2.1.1",
+    "steampipes": "^3.3.0"
+  }
+}
