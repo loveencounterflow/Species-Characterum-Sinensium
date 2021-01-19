@@ -428,3 +428,10 @@ p80n2, about the term *Meacus*:
 
 * https://en.wikipedia.org/wiki/Cirrus_cloud#Species
 * http://www.horg.com/horg/?page_id=2024
+* http://www.forstbotanik.uni-freiburg.de/Forstbotanischer%20Garten/Artnamenerklaerung
+* https://en.wikipedia.org/wiki/Vulgar_Latin_vocabulary
+* https://en.wiktionary.org/wiki/Appendix:Vulgar_Latin_Swadesh_list
+* https://en.wikipedia.org/wiki/Vulgar_Latin
+
+
+
