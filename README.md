@@ -346,6 +346,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 㕖 *Anellus pyr. arboris* (variant of 素)
 * 𣛁 *Aqua pyr. arboris*
 * 叒 *Dextra pyr.*
+* e10d  # ⿻二丨 (a reduced form of 丳? 串?)
 
 ## From Systema Phoneticum Scripturae Sinicae. Callery 1841
 
