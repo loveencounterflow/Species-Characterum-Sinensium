@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Species Characterum Sinensium](#species-characterum-sinensium)
+  - [Parts](#parts)
+  - [XXX](#xxx)
+  - [XXX](#xxx-1)
+  - [XXX](#xxx-2)
+  - [From Systema Phoneticum Scripturae Sinicae. Callery 1841](#from-systema-phoneticum-scripturae-sinicae-callery-1841)
+  - [Conventions](#conventions)
+  - [Epithets](#epithets)
+  - [Abbreviations](#abbreviations)
+    - [Annotations](#annotations)
+    - [See Also](#see-also)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 # Species Characterum Sinensium
@@ -6,6 +24,12 @@
 
 Binomial nomenclature for Chinese, Japanese, and Korean Characters
 
+## Parts
+
+* **1<sup>st</sup> Part**
+* **2<sup>nd</sup> Part: Specific Epithet** ⮕ Also known as *nomen triviale*, specific name.
+
+## XXX
 
 * ⿰ *l.*, *latus*
 * ⿲ *lss.*, *latissimus* (only when *3x*)
@@ -21,12 +45,15 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * ◰
 * ⿻ *dcs*, *decussatus* (crossed with X)
 
+## XXX
 
 * ↔ cnv. conversus
 * ↻ rot. rotatus
 * ↕ inv. inversus
 * quad. quadratus
 <!-- * pyr. pyramidalis (?) -->
+
+## XXX
 
 * 相: ⿰木目
 * 林: ⿰木木
@@ -347,6 +374,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 𣛁 *Aqua pyr. arboris*
 * 叒 *Dextra pyr.*
 * e10d  # ⿻二丨 (a reduced form of 丳? 串?)
+* 囙 *Amogus*, amogi (cf. https://www.reddit.com/r/ChineseLanguage/comments/mjozjv/%E5%9B%99/, https://knowyourmeme.com/memes/amogus)
 
 ## From Systema Phoneticum Scripturae Sinicae. Callery 1841
 
