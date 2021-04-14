@@ -31,7 +31,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * Letters: *abcdefghi(j)klmnopqrstuv(w)xyz*, *ABCDEFGHI(J)KLMNOPQRSTUV(W)XYZ*
 * Orthography:
   * Macron (for indicating vowel length) is omitted.
-  * *Æ*, *æ*, *Œ*, *œ* may be replaced by digraphs *Ae*, *ae*, *Oe*, *oe*.
+  * Ligatures *Æ*, *æ*, *Œ*, *œ* may be replaced by digraphs *Ae*, *ae*, *Oe*, *oe*.
 
 ## Parts
 
@@ -389,6 +389,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 叒 *Dextra pyr.*
 * e10d  # ⿻二丨 (a reduced form of 丳? 串?)
 * 囙 *Amogus*, amogi (cf. https://www.reddit.com/r/ChineseLanguage/comments/mjozjv/%E5%9B%99/, https://knowyourmeme.com/memes/amogus)
+* 天 *Cælum*, cæli
+
 
 ## From Systema Phoneticum Scripturae Sinicae. Callery 1841
 
