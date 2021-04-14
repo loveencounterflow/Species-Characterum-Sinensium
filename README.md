@@ -26,8 +26,12 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 
 ## Parts
 
-* **1<sup>st</sup> Part**
-* **2<sup>nd</sup> Part: Specific Epithet** ⮕ Also known as *nomen triviale*, specific name.
+* **1<sup>st</sup> Part: Generic Name** ⮕ Also known as genus name.
+* **2<sup>nd</sup> Part: Specific Epithet** ⮕ Also known as *nomen triviale*, specific name; can be:
+  * an adjective (〓〓〓 epithet), as in (zool.) *Passer domesticus*, (zool.) *Nandina domestica*.
+  * a noun in the nominal case (appositional epithet), as in (zool.) *Panthera leo*.
+  * a noun in the genitive case (possessive epithet). as in (bot.) *Magnolia hodgsonii*.
+
 
 ## XXX
 
