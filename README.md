@@ -30,8 +30,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 
 * Letters: *abcdefghi(j)klmnopqrstuv(w)xyz*, *ABCDEFGHI(J)KLMNOPQRSTUV(W)XYZ*
 * Orthography:
-  * Macron (for indicating vowel length) is omitted;
-  * *æ*, *œ* may be replaced by digraphs *ae*, *oe*.
+  * Macron (for indicating vowel length) is omitted.
+  * *Æ*, *æ*, *Œ*, *œ* may be replaced by digraphs *Ae*, *ae*, *Oe*, *oe*.
 
 ## Parts
 
