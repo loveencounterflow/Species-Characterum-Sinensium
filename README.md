@@ -1,16 +1,11 @@
-<style>
-bn {
-  color: red; }
-</style>
-
-
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Species Characterum Sinensium](#species-characterum-sinensium)
+- [*Species Characterum Sinensium*, sive *Characterium Sinensis*](#species-characterum-sinensium-sive-characterium-sinensis)
+  - [Letters & Orthography](#letters--orthography)
   - [Parts](#parts)
   - [XXX](#xxx)
   - [XXX](#xxx-1)
@@ -25,11 +20,18 @@ bn {
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# Species Characterum Sinensium
+# *Species Characterum Sinensium*, sive *Characterium Sinensis*
 
 <scale abs=2><b><center>中日韓文字二名法<vspace abs=2/></center></b></scale>
 
 Binomial nomenclature for Chinese, Japanese, and Korean Characters
+
+## Letters & Orthography
+
+* Letters: *abcdefghi(j)klmnopqrstuv(w)xyz*, *ABCDEFGHI(J)KLMNOPQRSTUV(W)XYZ*
+* Orthography:
+  * Macron (for indicating vowel length) is omitted;
+  * *æ*, *œ* may be replaced by digraphs *ae*, *oe*.
 
 ## Parts
 
@@ -38,7 +40,6 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
   * an adjective (〓〓〓 epithet), as in (zool.) *Passer domesticus*, (zool.) *Nandina domestica*.
   * a noun in the nominative case (appositional epithet), as in (zool.) *Panthera leo*.
   * a noun in the genitive case (possessive epithet). as in (bot.) *Magnolia hodgsonii*.
-  * a noun in the genitive case (possessive epithet). as in (bot.) <bn>Magnolia hodgsonii</bn>.
 
 
 
