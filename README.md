@@ -4,7 +4,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [*Species Characterum Sinensium*, sive *Characterium Sinensis*](#species-characterum-sinensium-sive-characterium-sinensis)
+- [*Species Characterum Sinensium* <br>sive *Characterium Sinensis*](#species-characterum-sinensium-brsive-characterium-sinensis)
   - [Letters & Orthography](#letters--orthography)
   - [Parts](#parts)
   - [XXX](#xxx)
@@ -20,7 +20,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# *Species Characterum Sinensium*, sive *Characterium Sinensis*
+# *Species Characterum Sinensium* <br>sive *Characterium Sinensis*
 
 <scale abs=2><b><center>中日韓文字二名法<vspace abs=2/></center></b></scale>
 
