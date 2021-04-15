@@ -280,6 +280,10 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 㠀 ⿱鳥山 *Avis plen. montis*
 * 島 ⿹山 *Avis nud. montis*
 * 嶋 ⿰山鳥 *Mons avis h.*
+* 鬼 At least in calligraphy, if not in typesetting, the 厶 *Anellus* of 鬼 (the 'tail') is often left out in
+  ⿺鬼〇 *gerulus* (porter) compounds. Likewise, one often sees ⿱田儿 (田 a 'bald head') instead of ⿱甶儿 (甶 a
+  'hairy head') (cf. Japanese place name 入谷鬼子母神 Iriya Kishimojin which is (locally) spelled [with a bald
+  head](https://www.jalan.net/kankou/spt_guide000000196492/) (cf. 小池和夫 異体字の世界 p54))
 * 嶌 ⿱山鳥 *Mons avis v.*
 * 騀 *Equus Ego-m.*
 * 萬 *Myrias cc.* (myriados/is)
