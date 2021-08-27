@@ -347,6 +347,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 𣛁 *Aqua pyr. arboris*
 * 叒 *Dextra pyr.*
 * e10d  # ⿻二丨 (a reduced form of 丳? 串?)
+* 囙 *Amogus*, amogi (cf. https://www.reddit.com/r/ChineseLanguage/comments/mjozjv/%E5%9B%99/, https://knowyourmeme.com/memes/amogus)
 
 ## From Systema Phoneticum Scripturae Sinicae. Callery 1841
 
