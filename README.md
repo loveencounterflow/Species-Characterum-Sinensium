@@ -1,11 +1,49 @@
 
 
-# Species Characterum Sinensium
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [*Species Characterum Sinensium* <br>sive *Characterium Sinensis*](#species-characterum-sinensium-brsive-characterium-sinensis)
+  - [Letters & Orthography](#letters--orthography)
+  - [Parts](#parts)
+  - [XXX](#xxx)
+  - [XXX](#xxx-1)
+  - [XXX](#xxx-2)
+  - [From Systema Phoneticum Scripturae Sinicae. Callery 1841](#from-systema-phoneticum-scripturae-sinicae-callery-1841)
+  - [Conventions](#conventions)
+  - [Epithets](#epithets)
+  - [Abbreviations](#abbreviations)
+    - [Annotations](#annotations)
+    - [See Also](#see-also)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+# *Species Characterum Sinensium* <br>sive *Characterium Sinensis*
 
 <scale abs=2><b><center>中日韓文字二名法<vspace abs=2/></center></b></scale>
 
 Binomial nomenclature for Chinese, Japanese, and Korean Characters
 
+## Letters & Orthography
+
+* Letters: *abcdefghi(j)klmnopqrstuv(w)xyz*, *ABCDEFGHI(J)KLMNOPQRSTUV(W)XYZ*
+* Orthography:
+  * Macron (for indicating vowel length) is omitted.
+  * Ligatures *Æ*, *æ*, *Œ*, *œ* may be replaced by digraphs *Ae*, *ae*, *Oe*, *oe*.
+
+## Parts
+
+* **1<sup>st</sup> Part: Generic Name** ⮕ Also known as genus name. A noun in the nominative case.
+* **2<sup>nd</sup> Part: Specific Epithet** ⮕ Also known as *nomen triviale*, specific name; can be:
+  * an adjective (〓〓〓 epithet), as in (zool.) *Passer domesticus*, (zool.) *Nandina domestica*.
+  * a noun in the nominative case (appositional epithet), as in (zool.) *Panthera leo*.
+  * a noun in the genitive case (possessive epithet). as in (bot.) *Magnolia hodgsonii*.
+
+
+
+## XXX
 
 * ⿰ *l.*, *latus*
 * ⿲ *lss.*, *latissimus* (only when *3x*)
@@ -21,6 +59,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * ◰
 * ⿻ *dcs*, *decussatus* (crossed with X)
 
+## XXX
 
 * ↔ cnv. conversus
 * ↻ rot. rotatus
@@ -28,6 +67,7 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * quad. quadratus
 <!-- * pyr. pyramidalis (?) -->
 
+## XXX
 * 相: ⿰木目
 * 林: ⿰木木
 * 林: ⿰2木
@@ -239,6 +279,10 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 㠀 ⿱鳥山 *Avis plen. montis*
 * 島 ⿹山 *Avis nud. montis*
 * 嶋 ⿰山鳥 *Mons avis h.*
+* 鬼 At least in calligraphy, if not in typesetting, the 厶 *Anellus* of 鬼 (the 'tail') is often left out in
+  ⿺鬼〇 *gerulus* (porter) compounds. Likewise, one often sees ⿱田儿 (田 a 'bald head') instead of ⿱甶儿 (甶 a
+  'hairy head') (cf. Japanese place name 入谷鬼子母神 Iriya Kishimojin which is (locally) spelled [with a bald
+  head](https://www.jalan.net/kankou/spt_guide000000196492/) (cf. 小池和夫 異体字の世界 p54))
 * 嶌 ⿱山鳥 *Mons avis v.*
 * 騀 *Equus Ego-m.*
 * 萬 *Myrias cc.* (myriados/is)
@@ -348,6 +392,8 @@ Binomial nomenclature for Chinese, Japanese, and Korean Characters
 * 叒 *Dextra pyr.*
 * e10d  # ⿻二丨 (a reduced form of 丳? 串?)
 * 囙 *Amogus*, amogi (cf. https://www.reddit.com/r/ChineseLanguage/comments/mjozjv/%E5%9B%99/, https://knowyourmeme.com/memes/amogus)
+* 天 *Cælum*, cæli
+
 
 ## From Systema Phoneticum Scripturae Sinicae. Callery 1841
 
