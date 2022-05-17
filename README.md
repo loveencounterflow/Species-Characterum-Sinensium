@@ -16,6 +16,7 @@
   - [Abbreviations](#abbreviations)
     - [Annotations](#annotations)
     - [See Also](#see-also)
+    - [To Do](#to-do)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -495,4 +496,16 @@ p80n2, about the term *Meacus*:
 * https://en.wikipedia.org/wiki/Vulgar_Latin
 
 
+### To Do
+
+* develop a [Blazonry (日: 紋章記述 (もんしょうきじゅつ); 中: ?; G: Blasonierung)](https://en.wikipedia.org/wiki/Blazon)
+  for sinographs
+  * http://heraldry.sca.org/armory/bruce.html
+  * http://heraldry.sca.org/armory_articles.html
+  * http://heralds.westkingdom.org/CommonBlazonKnowledge.htm
+  * https://commons.wikimedia.org/wiki/Illustrated_atlas_of_French_and_English_heraldic_terms
+  * https://en.wikipedia.org/wiki/Blazon
+  * https://rarebooks.nd.edu/digital/heraldry/blazoning.html
+  * https://rarebooks.nd.edu/digital/heraldry/partitions.html
+  * https://drawshield.net/create/index.html
 
