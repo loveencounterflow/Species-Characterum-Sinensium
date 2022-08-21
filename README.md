@@ -509,3 +509,10 @@ p80n2, about the term *Meacus*:
   * https://rarebooks.nd.edu/digital/heraldry/partitions.html
   * https://drawshield.net/create/index.html
 
+* look to
+  * cloud classification
+    * https://cloudatlas.wmo.int/en/principles-of-cloud-classification.html
+    * https://public.wmo.int/en/WorldMetDay2017/classifying-clouds
+  * bread bag clips classification
+    * https://www.horg.com/horg/?page_id=921
+
