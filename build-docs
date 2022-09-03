@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# thx to https://askubuntu.com/a/995278/1597241
+
+home="$(realpath "$(realpath "${BASH_SOURCE[0]}" | xargs dirname)"/.)"; cd "$home"
+
+marked taxonomy-of-arrangements/taxonomy-of-arrangements.md > taxonomy-of-arrangements/taxonomy-of-arrangements.html
+echo "character counts:"
+wc -c taxonomy-of-arrangements/taxonomy-of-arrangements.md taxonomy-of-arrangements/taxonomy-of-arrangements.html
+
+
