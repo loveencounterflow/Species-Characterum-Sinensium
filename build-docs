@@ -6,6 +6,13 @@ set -euo pipefail
 home="$(realpath "$(realpath "${BASH_SOURCE[0]}" | xargs dirname)"/.)"; cd "$home"
 
 marked taxonomy-of-arrangements/taxonomy-of-arrangements.md > taxonomy-of-arrangements/taxonomy-of-arrangements.html
+
+# de-convolute HTML:
+# js-beautify -f taxonomy-of-arrangements/taxonomy-table.html -r
+
+# remove explicit styling:
+# sed -E 's/(<\S+) style="[^"]+"/\1/g' taxonomy-of-arrangements/taxonomy-table.html
+
 echo "character counts:"
 wc -c taxonomy-of-arrangements/taxonomy-of-arrangements.md taxonomy-of-arrangements/taxonomy-of-arrangements.html
 
