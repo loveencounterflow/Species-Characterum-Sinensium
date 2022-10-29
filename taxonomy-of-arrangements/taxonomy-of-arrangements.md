@@ -1,4 +1,6 @@
 
+<meta charset='UTF-8'>
+
 <style>
 @font-face { font-family: 'flow';  src: local( 'sunflower-exta-201903' ); /*url( './fonts/sunflower-exta-201903.ttf'  );*/ unicode-range: U+00000-10fff; }
 @font-face { font-family: 'flow';  src: local( 'iosevka-slab-regular'  ); /*url( './fonts/iosevka-slab-regular.ttf'   );*/ unicode-range: U+00000-04dff; }
@@ -67,49 +69,47 @@ article {
 ## Taxonomy of Arrangements
 
 
-
-|  xxx  |     |                   |   |   |  xxx   |
-|-------|-----|-------------------|---|---|--------|
-| 01:  |     |                   |   |   | xxx    |
-| 02:  |     |                   |   |   | xxx    |
-| 03:  |     |                   |   |   | xxx    |
-| 04:  |     |                   |   |   | xxx    |
-| 05:  |     |                   |   |   | xxx    |
-| 06:  |     |                   |   |   | layers |
-| 07:  | T   | Top               |   |   | heaven |
-| 08:  | B   | Bottom            |   |   | earth  |
-| 09:  |     |                   |   |   | xxx    |
-| 10:  | tr  | top-right         |   |   | xxx    |
-| 11:  | LB  | Left+Bottom       |   |   | xxx    |
-| 12:  |     |                   |   |   | xxx    |
-| 13:  | br  | bottom-right      |   |   | xxx    |
-| 14:  | LT  | Left+Top          |   |   | xxx    |
-| 15:  |     |                   |   |   | xxx    |
-| 16:  | bl  | bottom-left       |   |   | xxx    |
-| 17:  | TR  | Top+Right         |   |   | xxx    |
-| 18:  |     |                   |   |   | xxx    |
-| 19:  | tl  | top-left          |   |   | xxx    |
-| 20:  | BR  | Bottom+Right      |   |   | xxx    |
-| 21:  |     |                   |   |   | xxx    |
-| 22:  | t   | top               |   |   | xxx    |
-| 23:  | LBR | Left+Bottom+Right |   |   | xxx    |
-| 24:  |     |                   |   |   | xxx    |
-| 25:  | r   | right             |   |   | xxx    |
-| 26:  | TLB | Top+Left+Bottom   |   |   | xxx    |
-| 27:  |     |                   |   |   | xxx    |
-| 28:  | b   | bottom            |   |   | xxx    |
-| 29:  | TLR | Top+Left+Right    |   |   | xxx    |
-| 30:  |     |                   |   |   | xxx    |
-| 31:  | l   | left              |   |   | xxx    |
-| 32:  | TRB | Top+Right+Bottom  |   |   | xxx    |
-| 33:  |     |                   |   |   | xxx    |
-| 34:  | O   | Outer             |   |   | xxx    |
-| 35:  | i   | inner             |   |   | xxx    |
-| 36:  |     |                   |   |   | xxx    |
-| 37:  |     |                   |   |   | xxx    |
-| 38:  |     |                   |   |   | xxx    |
-| 39:  | q   | quasi             |   |   | xxx    |
-
+<table>
+<tr><td>22</td><td></td><td>t</td><td>top</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>25</td><td></td><td>r</td><td>right</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>28</td><td></td><td>b</td><td>bottom</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31</td><td></td><td>l</td><td>left</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>04</td><td></td><td>L</td><td>Left (pillar)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>05</td><td></td><td>R</td><td>Right (pillar)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>07</td><td></td><td>T</td><td>Top (layer)</td><td></td><td></td><td>heaven</td><td></td></tr>
+<tr><td>08</td><td></td><td>B</td><td>Bottom (layer)</td><td></td><td></td><td>earth</td><td></td></tr>
+<tr><td>10</td><td></td><td>tr</td><td>top-right (edge)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13</td><td></td><td>br</td><td>bottom-right (edge)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16</td><td></td><td>bl</td><td>bottom-left (edge)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19</td><td></td><td>tl</td><td>top-left (edge)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11</td><td></td><td>LB</td><td>Left+Bottom (bend)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>14</td><td></td><td>LT</td><td>Left+Top (bend)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17</td><td></td><td>TR</td><td>Top+Right (bend)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>20</td><td></td><td>BR</td><td>Bottom+Right (bend)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>23</td><td></td><td>LBR</td><td>Left+Bottom+Right</td><td>open top container</td><td></td><td></td><td></td></tr>
+<tr><td>26</td><td></td><td>TLB</td><td>Top+Left+Bottom</td><td>open right container</td><td></td><td></td><td></td></tr>
+<tr><td>29</td><td></td><td>TLR</td><td>Top+Left+Right</td><td>open bottom container</td><td></td><td></td><td></td></tr>
+<tr><td>32</td><td></td><td>TRB</td><td>Top+Right+Bottom</td><td>open left container</td><td></td><td></td><td></td></tr>
+<tr><td>34</td><td></td><td>O</td><td>Outer</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>35</td><td></td><td>i</td><td>inner</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>01</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>03</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>06</td><td></td><td></td><td></td><td></td><td></td><td>layers</td><td></td></tr>
+<tr><td>09</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>24</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>27</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>30</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>33</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>36</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>37</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>38</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>39</td><td></td><td>q</td><td>quasi</td><td></td><td></td><td></td><td></td></tr>
+</table>
 
 </article>
 
